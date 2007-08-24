@@ -1,0 +1,56 @@
+--- 
+extension: html
+filter:    erb
+--- 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+   <title><%= @page.title %></title>
+   <meta name="author" content="<%= @page.author %>" />
+
+   <!--- Blueprint CSS Framework -->
+   <link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="css/site.css" type="text/css" media="screen, projection" />
+</head>
+<body>
+
+<div class="container">
+	
+   <div style="text-align: center;" class="column span-11 prepend-1 append-2 first last" id="header">
+     <img src="mountain-tux.png" />
+     <hr>
+     <ul id="navigation">
+	    <li><a href="meetings.html">Meetings</a>&#10022;</li>
+	    <li><a href="">FAQ</a>&#10022;</li>
+		<li><a href="">Mailing Lists</a>&#10022;</li>
+		<li><a href="">Book Reviews</a>&#10022;</li>
+		<li><a href="">About BLUG</a></li>
+	  </ul>
+
+   </div>
+	
+   <div class="column span-8 prepend-1 first">
+      <%= @content %>
+   </div>
+
+   <div class="column span-3 last">	
+	  <h4>Site</h4>
+	  <h4>Next Meeting</h4>
+	  <p><%= @next_meeting %></p>
+	  <h4>Upcoming Events</h3>
+   </div>
+
+   <div class="column span-11 prepend-1 append-2 first last" id="footer">
+     <hr />
+     <p>This website was created with <a href="http://webby.rubyforge.org">Webby</a></p>
+   </div>
+	
+</div>
+</body>
+</html>
