@@ -15,5 +15,17 @@ Our monthly meetings are held at 7:00 PM, on the second Thursday of each month.
 We are currently meeting at Aztek Networks, 2477 55th St, Suite 202, Boulder, CO. It's on 55th 
 between Arapahoe and Perl, just north of the Humane Society.  Check out the "map":http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=116174251943037632293.00000113175b043ec355f&z=15&om=1 for directions.
 
-This is a list of previous and future talks.  If you would like to speak at BLUG "please contact us":&#109;&#97;&#105;&#108;&#116;&#111;:&#x62;&#x6F;&#x75;&#108;&#100;&#x65;&#114;&#x6C;&#x69;&#x6E;&#117;&#120;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2E;&#99;&#x6F;&#x6D;
+If you would like to speak at BLUG "please contact us":&#109;&#97;&#105;&#108;&#116;&#111;:&#x62;&#x6F;&#x75;&#108;&#100;&#x65;&#114;&#x6C;&#x69;&#x6E;&#117;&#120;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2E;&#99;&#x6F;&#x6D;
 
+h2. History
+
+<table border="0" cellspacing="0" cellpadding="0" >
+	<tr style="background: #000000;color: #ffd233;"><th>Date</th><th>Talk</th><th>Speaker</th></tr>
+<% talks.each_with_index do |talk,i| %>
+	<tr style="background:#<%= ["999999", "ffd233"][i%2] -%>;">
+	<td><%= talk.date %></td>
+	<td><%= talk.title %></td>
+	<td><%= talk.speaker %></td>
+	</tr>
+<% end %>
+</table>

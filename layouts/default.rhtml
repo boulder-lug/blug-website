@@ -41,9 +41,14 @@ filter:    erb
 
    <div class="column span-3 last">	
 	  <h4>Next Meeting</h4>
-	  <p></p>
-	  <h4>Upcoming Events</h3>
-	  <p></p>
+	  <p>
+	  <ul>
+		<li><b>Date: </b><%= next_meeting.date %></li>
+		<li><b>Title: </b><%= next_meeting.title %></li>
+		<li><b>Speaker: </b> <%= next_meeting.speaker %></li>
+	  </ul>
+	  </p>
+		
    </div>
 
    <div class="column span-11 prepend-1 append-2 first last" id="footer">
