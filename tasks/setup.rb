@@ -16,7 +16,7 @@ SITE.page_defaults = {
 
 SITE.host       = 'blug@newcommunity.tummy.com'
 SITE.remote_dir = '/home/httpd/lug.boulder.co.us/html'
-SITE.rsync_args = %w(-av --dry-run)
+SITE.rsync_args = %w(-av) 
 
 FileList['tasks/*.rake'].each {|task| import task}
 
