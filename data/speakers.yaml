@@ -1,7 +1,9 @@
 --- 
 - talk: 
     title: Web Application Security
-    speaker: Ben Whaley
+    speaker: |
+        Ben Whaley Senior Engineer from 
+        <a href="http://www.atrust.com">Applied Trust Engineering</a>
     date: 2007-09-13
     email: bwhaley@gmail.com
 - talk: 

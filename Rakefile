@@ -1,6 +1,8 @@
+require 'webby'
+load 'tasks/setup.rb'
 
 task :default => :build
 
-# import rake tasks
-FileList['tasks/*.rake'].each {|task| import task}
+desc 'depoloy the site to the webserver'
+task :deploy => [:build, 'deploy:rsync']
 
