@@ -1,4 +1,8 @@
 --- 
+- talk:
+    title: Embedded Linux
+    speaker: Scott Mann
+    date: 2007-10-11
 - talk: 
     title: Web Application Security
     speaker: |
@@ -6,6 +10,7 @@
         <a href="http://www.atrust.com">Applied Trust Engineering</a>
     date: 2007-09-13
     email: bwhaley@gmail.com
+    presentation_link: /presentations/2007-09-13_Ben-Whaley_Web-Application-Security.pdf
 - talk: 
     title: Things on My Mind
     speaker: Evi Nemeth

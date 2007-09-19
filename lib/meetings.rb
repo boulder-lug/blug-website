@@ -29,6 +29,10 @@ def next_meeting
     OpenStruct.new(Meetings.new.meetings.first['talk'])
 end    
 
+def prev_meeting
+    OpenStruct.new(Meetings.new.meetings[1]['talk'])
+end
+
 def talks
     Meetings.new.meetings.collect { |m| OpenStruct.new(m['talk']) }
 end

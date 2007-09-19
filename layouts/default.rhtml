@@ -47,7 +47,20 @@ filter:    erb
 		<li><b>Title: </b><%= next_meeting.title %></li>
 		<li><b>Speaker: </b> <%= next_meeting.speaker %></li>
 	  </ul>
-	  </p>
+      </p>
+      <h4>Previous Meeting</h4>
+      <p>
+	  <ul>
+		<li><b>Date: </b><%= prev_meeting.date %></li>
+        <li><b>Title: </b>
+        <% if prev_meeting.presentation_link then %>
+            <a href="<%=prev_meeting.presentation_link %>"><%= prev_meeting.title %></a> 
+        <% else %>
+            <%= prev_meeting.title %>
+        <% end %>
+        </li>
+        <li><b>Speaker: </b> <%= prev_meeting.speaker %></li>
+	  </ul>
 	  <h4>Calendar</h4>
 	  <p>
 		<ul>
