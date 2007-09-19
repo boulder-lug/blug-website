@@ -44,7 +44,13 @@ h2. Talk History
 <% talks.each_with_index do |talk,i| %>
 	<tr style="background:#<%= ["999999", "ffd233"][i%2] -%>;">
 	<td><%= talk.date %></td>
-	<td><%= talk.title %></td>
+    <td>
+        <% if talk.presentation_link then %>
+            <a href="<%= talk.presentation_link %>"><%= talk.title %></a>
+        <% else %>
+            <%= talk.title %>
+        <% end %>
+    </td>
 	<td><%= talk.speaker %></td>
 	</tr>
 <% end %>
