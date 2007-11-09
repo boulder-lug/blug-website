@@ -1,8 +1,13 @@
 --- 
 - talk:
+    title: "The Kernel Report"
+    speaker: Jon Corbet
+    date: 2007-12-13
+- talk:
     title: "Not-So-Secret Handshakes: Getting involved in a Linux distribution"
-    speaker: Neil McBurnett, Kevin Fenzi, Jeremy Hinegardner and others.
+    speaker: Neal McBurnett, Kevin Fenzi, Jeremy Hinegardner and others.
     date: 2007-11-08
+    presentation_link: /presentations/2007-11-08_getting_involved_in_linux_distributions.html
 - talk:
     title: Embedded Linux
     speaker: Scott Mann
