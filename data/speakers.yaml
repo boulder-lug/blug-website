@@ -1,5 +1,10 @@
 --- 
 - talk:
+    title: Linux in Small Business (and why the Novell Microsoft deal offers some positive aspects for Linux)
+    speaker: Ferdinand Schmid 
+    email: fschmid@archenergy.com
+    date: 2008-01-10
+- talk:
     title: "The Kernel Report"
     speaker: Jon Corbet
     date: 2007-12-13
