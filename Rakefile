@@ -1,4 +1,3 @@
-require 'webby'
 load 'tasks/setup.rb'
 
 task :default => :build

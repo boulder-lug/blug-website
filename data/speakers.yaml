@@ -1,5 +1,50 @@
 --- 
 - talk:
+    title:
+    speaker: Larry Hunter
+    email: larry.hunter@uchsc.edu
+    date: 2008-11-14
+- talk:
+    title: 
+    speaker: Stephen Walli
+    email: stephen.walli@gmail.com
+    date: 2008-09-11
+- talk:
+    title:
+    speaker: Kevin Kempter
+    email: kevin@kevinkempterllc.com
+    date: 2008-08-14
+- talk: 
+    title: 
+    speaker: Tom Tromey
+    email: tromey@redhat.com
+    date: 2008-07-10
+- talk: 
+    title: 
+    speaker: Jim Buzbee
+    email: jbuzbee@nyx.net
+    date: 2008-06-12
+- talk:
+    title:
+    speaker: Stormy Peters
+    email: speters@openlogic.com
+    date: 2008-05-08
+- talk:
+    title:
+    speaker: Jordon Crouse
+    email: jordan.crouse@amd.com
+    date: 2008-04-10
+- talk:
+    title: 
+    speaker: Ned McClain
+    email: ned@atrust.com
+    date: 2008-03-13
+- talk:
+    title: Gnash, and the quest for Open Media politics and legalities.
+    speaker: Rob Savoye
+    email: rob@senecass.com
+    date: 2008-02-14
+- talk:
     title: Linux in Small Business (and why the Novell Microsoft deal offers some positive aspects for Linux)
     speaker: Ferdinand Schmid 
     email: fschmid@archenergy.com

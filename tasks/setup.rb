@@ -1,27 +1,34 @@
+# $Id$
 
-require 'ostruct'
+begin
+  require 'webby'
+rescue LoadError
+  require 'rubygems'
+  require 'webby'
+end
 
-SITE = OpenStruct.new
+SITE = Webby.site
 
+# Webby defaults
 SITE.content_dir   = 'content'
 SITE.output_dir    = 'output'
 SITE.layout_dir    = 'layouts'
 SITE.template_dir  = 'templates'
-SITE.exclude       = %w[tmp$ bak$ ~$ CVS \.svn]
+SITE.exclude       = %w[tmp$ bak$ ~$ CVS \.svn _darcs]
   
 SITE.page_defaults = {
-  'extension' => 'html',
-  'layout'    => 'default'
+  'layout' => 'default'
 }
 
+# Items used to deploy the webiste
 SITE.host       = 'blug@newcommunity.tummy.com'
 SITE.remote_dir = '/home/httpd/lug.boulder.co.us/html'
-SITE.rsync_args = %w(-av) 
+SITE.rsync_args = %w( -av )
 
-FileList['tasks/*.rake'].each {|task| import task}
+# Options passed to the 'tidy' program when the tidy filter is used
+SITE.tidy_options = '-indent -wrap 80'
 
-%w(heel).each do |lib|
-  Object.instance_eval {const_set "HAVE_#{lib.upcase}", try_require(lib)}
-end
+# Load the other rake files in the tasks folder
+Dir.glob('tasks/*.rake').sort.each {|fn| import fn}
 
 # EOF
