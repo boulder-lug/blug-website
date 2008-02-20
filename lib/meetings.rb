@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
 
 require 'time'
+require 'date'
 require 'rubygems'
 require 'yaml'
-require 'chronic'
 require 'ostruct'
 
 
@@ -26,11 +26,23 @@ class Meetings
         calc_meeting_dates
     end
 
+    def second_thursday_of(date = Date.today)
+        this_month = Date.new(date.year, date.month, 1)
+        thursday_count = (this_month.wday == 4) ? 1 : 0
+        while thursday_count < 2 
+            this_month += 1
+            thursday_count += 1 if this_month.wday == 4
+        end
+        return this_month
+    end
+
+
     def calc_meeting_dates
-        last_month_mtg = Chronic.parse("2nd Thursday of last month")
-        this_month_mtg = Chronic.parse("2nd Thursday of this month")
-        next_month_mtg = Chronic.parse("2nd Thursday of next month")
-        today      = Time.now
+        today = Date.today
+        
+        this_month_mtg = second_thursday_of(today)
+        last_month_mtg = second_thursday_of(today << 1)
+        next_month_mtg = second_thursday_of(today >> 1)
 
         if today > this_month_mtg then
             @next_meeting_date = next_month_mtg
@@ -79,7 +91,8 @@ From: #{from}
 To: #{to}
 Subject: BLUG Meeting Announcement #{mtg_date}
 Date: #{Time.now.rfc2822}
-    
+
+
     http://lug.boulder.co.us/calendar.html
 
 The next Boulder Linux User Group meeting is coming up.
@@ -112,9 +125,9 @@ EOM
 end
 
 BLUG_MEETINGS = Meetings.new
-FROM_EMAIL    = "Boulder Linux <boulderlinux@gmail.com>"
-TO_EMAIL      = [ '"BLUG Announce Mailing List" <announce@lug.boulder.co.us>', 
-                  '"BLUG Mailing List" <lug@lug.boulder.co.us>' ]
+FROM_EMAIL    = "boulderlinux@gmail.com"
+FROM_NAME     = "Boulder Linux"
+TO_EMAIL      = %w[ announce@lug.boulder.co.us lug@lug.boulder.co.us ]
 
 def next_meeting
     OpenStruct.new(BLUG_MEETINGS.next_meeting_talk)
@@ -129,10 +142,14 @@ def talks
 end
 
 if $0 == __FILE__
-    #raw_msg = BLUG_MEETINGS.next_meeting_email(FROM_EMAIL, TO_EMAIL)
-    raw_msg = BLUG_MEETINGS.newxt_meeting_email(FROM_EMAIL, "jeremy@collectiveintellect.com")
-    require 'net/smtp'
-    Net::SMTP.start("localhost", 25) do |smtp|
-        smtp.send_message(raw_msg, FROM_EMAIL, "jeremy@collectiveintellect.com")
+    raw_msg = BLUG_MEETINGS.next_meeting_email("#{FROM_NAME} <#{FROM_EMAIL}>", TO_EMAIL)
+    #raw_msg = BLUG_MEETINGS.next_meeting_email("#{FROM_NAME} <#{FROM_EMAIL}>", "jeremy@collectiveintellect.com")
+    puts raw_msg
+    if ARGV.first == "--send-email" then
+        puts "Sending email as #{FROM_EMAIL} -> #{TO_EMAIL.inspect}"
+        require 'net/smtp'
+        Net::SMTP.start("localhost", 25) do |smtp|
+            smtp.send_message(raw_msg, FROM_EMAIL, *TO_EMAIL)
+        end
     end
 end
