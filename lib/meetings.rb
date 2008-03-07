@@ -99,7 +99,7 @@ The next Boulder Linux User Group meeting is coming up.
 
    Talk : #{next_meeting_talk['title']}
 
-Speaker : #{next_meeting_talk['speaker']}
+Speaker : #{next_meeting_talk['speaker'].gsub(/<(.|\n)*?>/,'')}
 
    When : 7 p.m. on #{next_meeting_date.strftime("%a, %b %d, %Y")} 
 
@@ -110,6 +110,22 @@ Speaker : #{next_meeting_talk['speaker']}
           the 206 and 208 busses stop across the street.
 
     Map : http://lug.boulder.co.us/meetings.html
+EOM
+
+      if next_meeting_talk['desc'] then
+        msg += <<SUMMARY
+
+Summary of '#{next_meeting_talk['title']}'
+#{'-' * (next_meeting_talk['title'].length + 13)}
+
+#{next_meeting_talk['desc']}
+SUMMARY
+      end
+
+      msg += <<FOOTER
+
+Pre meeting food
+----------------
 
 Please join us informally for a bite to eat at Panera Bread before the
 meeting, around 5:30 P.M.  Panera is in the 29th street mall, east of
@@ -119,7 +135,7 @@ Highway 36/28th street near Walnut.
 --
 Boulder Linux User Group
 http://lug.boulder.co.us
-EOM
+FOOTER
     end
 
 end

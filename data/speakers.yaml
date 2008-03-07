@@ -35,8 +35,15 @@
     email: jordan.crouse@amd.com
     date: 2008-04-10
 - talk:
-    title: 
-    speaker: Ned McClain
+    title: Greening your Linux Infrastructure
+    speaker: Ned McClain Co-founder and CTO of <a href="http://www.atrust.com">Applied Trust Engineering</a>
+    desc: |
+        With today's high cost of data center real estate, the increasing
+        cost of energy, and your organization's desire to be more eco-friendly,
+        green infrastructure is on everyone's mind.  This presentation will
+        focus on practical, real-world techniques to help you reduce your data
+        center footprint, reduce your energy costs, and reduce your ongoing
+        operational cost while improving availability.
     email: ned@atrust.com
     date: 2008-03-13
 - talk:
