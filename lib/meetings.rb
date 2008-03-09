@@ -103,9 +103,9 @@ Speaker : #{next_meeting_talk['speaker'].gsub(/<(.|\n)*?>/,'')}
 
    When : 7 p.m. on #{next_meeting_date.strftime("%a, %b %d, %Y")} 
 
-  Where : Aztec Networks, 2477 55th St, Suite 202, Boulder, CO.
+  Where : Aztek Networks, 2477 55th St, Suite 202, Boulder, CO.
 
-          Aztec Networks is on 55th between Arapahoe and Perl, just
+          Aztek Networks is on 55th between Arapahoe and Perl, just
           north of the Humane Society.  There's plenty of parking, and
           the 206 and 208 busses stop across the street.
 
