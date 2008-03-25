@@ -30,10 +30,17 @@
     email: speters@openlogic.com
     date: 2008-05-08
 - talk:
-    title:
+    title: Under the XO hood, the guts of an OLPC machine.
     speaker: Jordon Crouse
     email: jordan.crouse@amd.com
     date: 2008-04-10
+    desc: |
+      All the really low level stuff you ever wanted to know about the XO
+      machines.  Development of the LinuxBIOS to Open Firmware, secure boot mode,
+      Power management without ACPI or APM, kernel hacks, DCON, how the wireless
+      dongle works, accelerated graphics, composit drawing YUV conversion and
+      hardware assisted rotation.  And of course all the questions you can ask.
+      Bring your XO and have some fun!
 - talk:
     title: Greening your Linux Infrastructure
     speaker: Ned McClain Co-founder and CTO of <a href="http://www.atrust.com">Applied Trust Engineering</a>
