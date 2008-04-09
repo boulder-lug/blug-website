@@ -171,14 +171,14 @@ def talks
 end
 
 def days_until_next_meeting
-  Date.today - BLUG_MEETINGS.next_meeting_date
+  BLUG_MEETINGS.next_meeting_date - Date.today
 end
 
 if $0 == __FILE__
   raw_msg = BLUG_MEETINGS.next_meeting_email("#{FROM_NAME} <#{FROM_EMAIL}>", TO_EMAIL)
   #raw_msg = BLUG_MEETINGS.next_meeting_email("#{FROM_NAME} <#{FROM_EMAIL}>", "jeremy@collectiveintellect.com")
   if ARGV.first == "--send-email" then
-    if [1, 7].include?(days_until_next_meeting) then
+    if [1, 7].include?(days_until_next_meeting) or ARGV[1] == "--force" then
       require 'net/smtp'
       Net::SMTP.start("localhost", 25) do |smtp|
         smtp.send_message(raw_msg, FROM_EMAIL, *TO_EMAIL)
