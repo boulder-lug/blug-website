@@ -34,6 +34,7 @@
     speaker: Jordon Crouse
     email: jordan.crouse@amd.com
     date: 2008-04-10
+    presentation_link: /presentations/2008-04-10_Jordan-Crouse_Under-the-XO-Hood.pdf
     desc: |
       All the really low level stuff you ever wanted to know about the XO
       machines.  Development of the LinuxBIOS to Open Firmware, secure boot mode,
