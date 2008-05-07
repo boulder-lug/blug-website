@@ -1,11 +1,11 @@
---- 
+---
 - talk:
     title:
     speaker: Larry Hunter
     email: larry.hunter@uchsc.edu
     date: 2008-11-14
 - talk:
-    title: 
+    title:
     speaker: Stephen Walli
     email: stephen.walli@gmail.com
     date: 2008-09-11
@@ -14,21 +14,32 @@
     speaker: Kevin Kempter
     email: kevin@kevinkempterllc.com
     date: 2008-08-14
-- talk: 
-    title: 
+- talk:
+    title:
     speaker: Tom Tromey
     email: tromey@redhat.com
     date: 2008-07-10
-- talk: 
-    title: 
+- talk:
+    title:
     speaker: Jim Buzbee
     email: jbuzbee@nyx.net
     date: 2008-06-12
 - talk:
-    title:
+    title: Are commercial companies killing open source by paying people to work on it?
     speaker: Stormy Peters
     email: speters@openlogic.com
     date: 2008-05-08
+    desc: |
+      One of the things about the open source community that continues to baffle
+      those non-open source people is, "why do you do it?" Open source
+      developers work on open source software for a number of reasons from
+      scratching an itch to gaining a reputation to building a resume to
+      contributing to a good cause.  The interesting problem comes when money
+      enters into the equation.  Research shows that when someone works on
+      something for free (for internal rewards) if you start paying them you
+      replace those internal rewards. Then if you stop paying them, they will
+      stop working on it.  Does that hold true for open source software?  Are
+      commercial companies killing open source by paying people to work on it?
 - talk:
     title: Under the XO hood, the guts of an OLPC machine.
     speaker: Jordon Crouse
@@ -61,7 +72,7 @@
     date: 2008-02-14
 - talk:
     title: Linux in Small Business (and why the Novell Microsoft deal offers some positive aspects for Linux)
-    speaker: Ferdinand Schmid 
+    speaker: Ferdinand Schmid
     email: fschmid@archenergy.com
     date: 2008-01-10
 - talk:
@@ -77,454 +88,454 @@
     title: Embedded Linux
     speaker: Scott Mann
     date: 2007-10-11
-- talk: 
+- talk:
     title: Web Application Security
     speaker: |
-        Ben Whaley Senior Engineer from 
+        Ben Whaley Senior Engineer from
         <a href="http://www.atrust.com">Applied Trust Engineering</a>
     date: 2007-09-13
     email: bwhaley@gmail.com
     presentation_link: /presentations/2007-09-13_Ben-Whaley_Web-Application-Security.pdf
-- talk: 
+- talk:
     title: Things on My Mind
     speaker: Evi Nemeth
     date: 2007-08-09
     email: sailingevi@yahoo.com
-- talk: 
+- talk:
     title: Using Virtualization to Make Linux Play in a Windows-centric Office
     speaker: Andy Rudoff
     date: 2007-07-12
     email: andy@rudoff.com
-- talk: 
+- talk:
     title: Xbox Linux
     speaker: Alex Schaefer and Seren Thompson
     date: 2007-06-14
-- talk: 
+- talk:
     title: Nagios and System Monitoring
     speaker: Vince Dean
     date: 2007-05-10
     email: vdean@ucar.edu
-- talk: 
+- talk:
     title: Hacking Society
     speaker: Various
     date: 2007-04-12
-- talk: 
+- talk:
     title: Demo Day
     speaker: Various
     date: 2007-03-08
-- talk: 
+- talk:
     title: OpenOffice
     speaker: Solveig Haugland
     date: 2007-02-08
     email: solveig@getopenoffice.org
-- talk: 
+- talk:
     title: Virtualization with XEN
     speaker: Ferdinand Schmid
     date: 2007-01-11
     email: fschmid@archenergy.com
-- talk: 
+- talk:
     title: No meeting.
     date: 2006-12-14
-- talk: 
+- talk:
     title: The GIT revision control system
     speaker: Chris Riddoch
     date: 2006-11-09
-- talk: 
+- talk:
     title: Demo Day
     speaker: Various
     date: 2006-10-12
     email: boulderlinux@gmail.com
-- talk: 
+- talk:
     title: VPNs and Mobile Devices
     speaker: Sean Reifschneider
     date: 2006-09-14
     email: jafo@tummy.com
-- talk: 
+- talk:
     title: Wireless Router Hacks
     speaker: Richard Weait
     date: 2006-08-10
     email: richard@weait.com
-- talk: 
+- talk:
     title: The Kernel Report
     speaker: Jon Corbet
     date: 2006-07-13
     email: corbet@lwn.net
-- talk: 
+- talk:
     title: Shell Programming
     speaker: Jeff Haemer
     date: 2006-06-08
     desc: Shells, such as bash, provide a large part of the power and flexibility associated with Linux.  This tutorial will introduce you to shell programming.
     email: jeffrey.haemer@gmail.com
-- talk: 
+- talk:
     title: Wireless Networking
     speaker: Roundtable
     date: 2006-05-11
     desc: Free software has produced a variety of tools for working with wireless networks, from wardriving (finding open access points) to managing a home or business wireless network.  In this roundtable discussion, everyone is invited to share their experiences with using Linux on wireless networks.
-- talk: 
+- talk:
     title: Security
     speaker: Roundtable
     date: 2006-04-13
     desc: How do you use Linux and free software to improve the security of your computer?  This roundtable discussion will offer us an opportunity to introduce each other to useful tools that protect our data and prevent intrusions and malware.
-- talk: 
+- talk:
     title: Ruby on Rails
     speaker: Jeremy Hinegardner
     date: 2006-01-12
     desc: Rails is a popular framework for very rapid development of database-backed websites.  This talk is an overview and tutorial of Rails, featuring a quick reimplementation of the BLUG website.
     email: jeremy@hinegardner.org
-- talk: 
+- talk:
     title: Asterisk
     speaker: Daniel Webb
     date: 2005-12-08
     desc: Asterisk is an open source telephony system; a complete PBX in software.  This talk will help you understand how to set up and use it on your Linux system.
     email: public@danielwebb.us
-- talk: 
+- talk:
     title: How to debug software
     speaker: Jonathan Briggs
     date: 2005-11-10
     desc: An introduction to debugging Linux software.  Tools like GDB, strace, and others will be discussed, as well as how to make a good bug report.
     email: zlynx@acm.org
-- talk: 
+- talk:
     speaker: Sean Reifschneider
     title: Xen
     date: 2005-10-13
     desc: " Xen is a virtual machine monitor for x86 that supports execution of multiple guest operating systems."
     email: jafo@tummy.com
-- talk: 
+- talk:
     speaker: Lori Reed
     title: "MFFS: A Multi-fork file system API"
     date: 2005-08-11
     desc: The Multi-Fork File System is a powerful POSIX compliant Application Programming Interface for C/C++ built on standard file I/O functions such as open(), close(), read(), write(), and lseek().
     email: lorireed@lightning-rose.com
-  demo: 
+  demo:
     speaker: Jon Conway
     title: Bash hacks
-- talk: 
+- talk:
     speaker: Jeremy Hinegardner
     title: Alternative web servers on Linux
     date: 2005-07-14
     desc: This talk aims to demonstrate some of the lesser-known web servers available on Linux and discuss their benefits, showing that they may occasionally be just the right tool for serving up your website.
     email: jjh-blug@vieorhythms.com
-- talk: 
+- talk:
     speaker: Noel Miller
     title: Nagios
     date: 2005-06-09
     email: noeldamonmiller@yahoo.com
-- talk: 
+- talk:
     speaker: roundtable
     title: Revision Control Systems
     date: 2005-04-14
-- talk: 
+- talk:
     title: Celebrating 10 years of BLUG
     date: 2005-03-10
-- talk: 
+- talk:
     speaker: Sean Reifschneider
     title: vPostMaster
     date: 2005-02-10
     email: jafo@tummy.com
-  demo: 
+  demo:
     speaker: Chris Riddoch
     title: SWIG
     email: chris-blug@syntacticsugar.org
-- talk: 
+- talk:
     speaker: Kevin Fenzi
     title: Morphix
     date: 2005-01-13
     email: kevin@scrye.com
-- talk: 
+- talk:
     speaker: Various
     title: Demo day
     date: 2004-12-08
-- talk: 
+- talk:
     speaker: Richard Johnson
     title: Anatomy of a Widespread Security Compromise
     date: 2004-11-11
     email: rjohnson@ucar.edu
-- talk: 
+- talk:
     speaker: Jordan Crouse
     title: OpenEmbedded build environment
     date: 2004-10-14
     email: jordan@cosmicpenguin.net
-- talk: 
+- talk:
     speaker: Andy Grolnick and Rod Cope
     title: BlueGlue, Java developer tools
     date: 2004-09-09
     email: andy.grolnick@openlogic.com
-- talk: 
+- talk:
     speaker: Tony Fortenberry
     title: Linux in city government
     date: 2004-08-12
     email: tfortenberry@ogov.org
-- talk: 
+- talk:
     speaker: Rebecca Sobol
     title: Linux Distributions
     date: 2004-07-08
     email: ris@lwn.net
-- talk: 
+- talk:
     speaker: Various
     title: Demo Day
     date: 2004-06-10
-- talk: 
+- talk:
     speaker: Chris Riddoch
     title: Automatic summarization of high-traffic email lists
     date: 2004-05-13
     email: chris-blug@syntacticsugar.org
-- talk: 
+- talk:
     speaker: Ted Logan
     title: Video Editing on Linux
     date: 2004-04-08
     email: jaeger@festing.org
-  demo: 
+  demo:
     speaker: Ferdinand Schmid
     title: Turboprint
     email: fschmid@archenergy.com
-- talk: 
+- talk:
     speaker: Matt Gushee
     title: Objective Caml (OCaml)
     date: 2004-03-11
     email: mgushee@havenrock.com
-- talk: 
+- talk:
     speaker: Kevin Fenzi
     title: Linux on Laptops
     date: 2004-02-12
     email: kevin@scrye.com
-- talk: 
+- talk:
     speaker: Patty Laushman
     title: Moving home users to consulting
     date: 2003-12-11
     email: patty@theuptimegroup.com
-- talk: 
+- talk:
     speaker: Jeremy Hinegardner
     title: Ruby
     date: 2003-11-13
     email: jjh-blug@vieorhythms.com
-- talk: 
+- talk:
     speaker: Roundtable discussion
     title: Linux Distributions
     date: 2003-10-09
-- talk: 
+- talk:
     speaker: James Yonan
     title: OpenVPN
     date: 2003-09-11
     email: jim@yonan.net
-- talk: 
+- talk:
     title: BLUG Picnic
     date: 2003-07-12
-- talk: 
+- talk:
     speaker: Jon Corbet
     title: Porting drivers to 2.5/6 kernels
     date: 2003-06-12
     email: corbet@lwn.net
-- talk: 
+- talk:
     speaker: Solveig Haugland
     title: OpenOffice
     date: 2003-05-08
     email: solveig@getopenoffice.org
-- talk: 
+- talk:
     speaker: Karen Robine
     title: Grass/GIS
     date: 2003-04-10
     email: Krobine@aol.com
-- talk: 
+- talk:
     speaker: Sean Reifschneider
     title: User-Mode Linux
     date: 2003-03-13
     email: jafo@tummy.com
-- talk: 
+- talk:
     speaker: Kevin Fenzi
     title: CIPE
     date: 2003-02-13
     email: kevin@scrye.com
-- talk: 
+- talk:
     speaker: Martin Fowler
     title: Refactoring
     date: 2003-01-09
     email: fowler@acm.org
-- talk: 
+- talk:
     speaker: Everyone!
     title: "Free-form: How do you use Linux?"
     date: 2002-12-12
-- talk: 
+- talk:
     speaker: Jason Haislmaier, John Ritsick, and Kara Rigney
     title: "Panel: Software Licenses"
     date: 2002-11-14
-- talk: 
+- talk:
     speaker: Eric Sisler
     title: Linux in Libraries
     date: 2002-10-10
     email: esisler@westminster.lib.co.us
-  demo: 
+  demo:
     speaker: Evelyn Mitchell
     title: How to ask a good question
     email: efm@tummy.com
-- talk: 
+- talk:
     speaker: Matt Gushee
     title: Ruby
     date: 2002-09-12
     email: mgushee@havenrock.com
-  demo: 
+  demo:
     speaker: Sean Reifschneider
     title: IRC
     email: jafo@tummy.com
-- talk: 
+- talk:
     speaker: Chris Riddoch
     title: Docbook
     date: 2002-08-08
     email: Christopher.Riddoch@colorado.edu
-  demo: 
+  demo:
     speaker: Rob Judd
     title: SSH Keys
     email: rjudd@mlug.missouri.edu
-- talk: 
+- talk:
     speaker: Dave Pitts
     title: Linux on the IBM Mainframe
     date: 2002-07-11
     email: dpitts@cozx.com
-  demo: 
+  demo:
     speaker: Sean Reifschneider
     title: krud2date, krudfind
     email: jafo@tummy.com
-- talk: 
+- talk:
     speaker: Robert Gray
     title: Wireless Network Security
     date: 2002-06-13
     email: bob@boulderlabs.com
-  demo: 
+  demo:
     speaker: George Sexton
     title: Horde/IMP
     email: gsexton@mhsoftware.com
-- talk: 
+- talk:
     title: Demo Day
     date: 2002-05-09
-  demo: 
+  demo:
     speaker: Sean Reifschneider
     title: Raid-1 Cluster
     email: jafo@tummy.com
-- talk: 
+- talk:
     speaker: Kevin Fenzi
     title: Social Engineering Attacks
     date: 2002-04-11
     email: kevin@scrye.com
-  demo: 
+  demo:
     speaker: Rob Riggs
     title: PAM console modules
     email: RRiggs@doubleclick.net
-- talk: 
+- talk:
     speaker: Tom Tromey
     title: Automake, Autoconf and Libtool
     date: 2002-03-14
     email: tromey@redhat.com
-  demo: 
+  demo:
     speaker: Evelyn Mitchell
     title: RATS
     email: efm@tummy.com
-- talk: 
+- talk:
     title: Package Management Panel
     date: 2002-02-14
-- talk: 
+- talk:
     speaker: ljp
     title: The Linux-Powered Sharp Zaurus PDA
     date: 2002-01-10
     email: ljp@llornkcor.com
-- talk: 
+- talk:
     speaker: Evelyn Mitchell
     title: GPL Licensing Issues
     date: 2001-12-13
     email: efm@tummy.com
-- talk: 
+- talk:
     speaker: Peter Saint-Andre
     title: Jabber - Instant Messaging
     date: 2001-11-08
     email: stpeter@jabber.org
-- talk: 
+- talk:
     speaker: Jeffery Collins
     title: Pippy - Python on the Palm Pilot
     date: 2001-10-11
     email: jcollins@boulder.net
-- talk: 
+- talk:
     speaker: Sean Reifschneider
     title: Introduction to Python
     date: 2001-08-09
     email: jafo@tummy.com
-- talk: 
+- talk:
     speaker: Kevin Fenzi
     title: Securing an existing linux box
     date: 2001-06-14
     email: kevin@scrye.com
-- talk: 
+- talk:
     speaker: Shane O'Donnell
     title: Network and Systems Management
     date: 2001-05-10
     email: shaneo@opennms.org
-- talk: 
+- talk:
     speaker: Sean Reifschneider
     title: Mobile Linux
     date: 2001-04-12
     email: jafo@tummy.com
-- talk: 
+- talk:
     speaker: Chris Riddoch
     title: Document Preparation Tools
     date: 2001-03-08
     email: Christopher.Riddoch@colorado.edu
-- talk: 
+- talk:
     speaker: Michael J. Pedersen
     title: GNU Privacy Guard and PGP
     date: 2001-01-11
     email: marvin@keepthetouch.org
-- talk: 
+- talk:
     speaker: Scott Herod
     title: Audio / Video for Linux
     date: 2000-12-14
     email: herod@interact-tv.com
-- talk: 
+- talk:
     speaker: Jane Ryland
     title: Internet-2
     date: 2000-11-09
     email: jryland@educause.edu
-- talk: 
+- talk:
     speaker: Ed Moxley
     title: FSL's alpha/linux cluster
     date: 2000-10-12
     email: moxley@fsl.noaa.gov
-- talk: 
+- talk:
     speaker: Ken Weinert
     title: CVS (Software Revision control)
     date: 2000-09-14
     email: kenw@ihs.com
-- talk: 
+- talk:
     speaker: Sean Reifschneider
     title: A Survey of Databases
     date: 2000-08-10
     email: jafo@tummy.com
-- talk: 
+- talk:
     speaker: Jason Cherveny
     title: Storage Area Networks
     date: 2000-07-13
-- talk: 
+- talk:
     speaker: Elizabeth Coolbaugh
     title: Tour of Linux Distributions
     date: 2000-06-08
     email: cool@eklektix.com
-- talk: 
+- talk:
     speaker: Greg Holling
     title: Java and Linux
     date: 2000-05-11
     email: gholling@rmi.net
-- talk: 
+- talk:
     speaker: Toni Foiani
     title: Perl
     date: 2000-04-13
     email: tkil@scrye.com
-- talk: 
+- talk:
     speaker: Kevin Fenzi
     title: Security and Firewalling
     date: 2000-03-09
     email: kevin@scrye.com
-- talk: 
+- talk:
     speaker: Ed Meyer
     title: Computer Gaming
     date: 2000-02-10
     email: EMeyer@equuscs.com
-- talk: 
+- talk:
     speaker: David Lovering
     title: Typesetting with TeX/LaTeX
     date: 2000-01-13
