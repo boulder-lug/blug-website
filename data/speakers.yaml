@@ -20,10 +20,11 @@
     email: tromey@redhat.com
     date: 2008-07-10
 - talk:
-    title:
+    title: "Is that a LAMP in your pocket? Hacking the NSLU2"
     speaker: Jim Buzbee
     email: jbuzbee@nyx.net
     date: 2008-06-12
+    desc: |
 - talk:
     title: Are commercial companies killing open source by paying people to work on it?
     speaker: Stormy Peters
