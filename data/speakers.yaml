@@ -15,10 +15,15 @@
     email: kevin@kevinkempterllc.com
     date: 2008-08-14
 - talk:
-    title: Crazy Emacs Tricks
+    title:
     speaker: Tom Tromey
     email: tromey@redhat.com
     date: 2008-07-10
+    desc: |
+      Emacs, the programmer's editor that most closely resembles Homer
+      Simpson's car, is going through a renaissance.  This interactive tour
+      of Emacs and its many add-ons will take even expert Emacs users to
+      fun, unusual, and unexplored neighborhoods.
 - talk:
     title: "Is that a LAMP in your pocket? Hacking the NSLU2"
     speaker: Jim Buzbee
