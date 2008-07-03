@@ -129,9 +129,9 @@ if next_meeting_talk['desc'] then
   msg += <<SUMMARY
 
 Summary of '#{next_meeting_talk['title']}'
-  #{'-' * (next_meeting_talk['title'].length + 13)}
+#{'-' * (next_meeting_talk['title'].length + 13)}
 
-  #{next_meeting_talk['desc']}
+#{next_meeting_talk['desc']}
 SUMMARY
 end
 
@@ -184,5 +184,7 @@ if $0 == __FILE__
         smtp.send_message(raw_msg, FROM_EMAIL, *TO_EMAIL)
       end
     end
+  else
+    puts raw_msg
   end
 end
