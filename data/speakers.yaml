@@ -14,6 +14,8 @@
     speaker: Kevin Kempter
     email: kevin@kevinkempterllc.com
     date: 2008-08-14
+    desc: |
+      PostgreSQL, a comparison with MySQL, configuration strategies and performance tuning.
 - talk:
     title: Crazy Emacs Tricks
     speaker: Tom Tromey
