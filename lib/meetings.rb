@@ -118,7 +118,7 @@ Speaker : #{next_meeting_talk['speaker'].gsub(/<(.|\n)*?>/,'')}
 
   Where : Aztek Networks, 2477 55th St, Suite 202, Boulder, CO.
 
-          Aztek Networks is on 55th between Arapahoe and Perl, just
+          Aztek Networks is on 55th between Arapahoe and Pearl, just
           north of the Humane Society.  There's plenty of parking, and
           the 206 and 208 busses stop across the street.
 
