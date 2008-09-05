@@ -5,10 +5,19 @@
     email: larry.hunter@uchsc.edu
     date: 2008-11-14
 - talk:
-    title:
+    title: Open Source Software Economics, Standards, and IP in One Lesson
     speaker: Stephen Walli
     email: stephen.walli@gmail.com
     date: 2008-09-11
+    desc: |
+      The talk looks at the economic relationships between free and open source
+      software, standards and intellectual property, and how they relate to
+      businesses using open source software. Based on past experiences (Optaros,
+      Microsoft, Softway, MKS), it looks at open source software in business
+      from the perspective: It's just software; It's just economics; It's just
+      business; It's just software licensing. There's nothing inherently new
+      about developing good software, communities, collaboration, or IP
+      licensing, but the yardsticks may have changed
 - talk:
     title: PostgreSQL
     speaker: Kevin Kempter
