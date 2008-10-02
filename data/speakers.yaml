@@ -5,6 +5,15 @@
     email: larry.hunter@uchsc.edu
     date: 2008-11-14
 - talk:
+    title: Qeum - Open Source Virtualization
+    speaker: Lori Reed
+    email:
+    date: 2008-10-09
+    desc: |
+      This will be a demonstration and tutorial on using Qemu to run a variety
+      of virtualized operating systems booting from a variety of virtualized
+      devices.
+- talk:
     title: Open Source Software Economics, Standards, and IP in One Lesson
     speaker: Stephen Walli
     email: stephen.walli@gmail.com
