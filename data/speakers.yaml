@@ -4,6 +4,7 @@
     speaker: Larry Hunter
     email: larry.hunter@uchsc.edu
     date: 2008-11-14
+    desc: 
 - talk:
     title: Qemu - Open Source Virtualization
     speaker: Lori Reed
