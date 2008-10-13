@@ -1,6 +1,12 @@
 ---
 - talk:
     title:
+    speaker: 
+    email: 
+    date: 2008-12-11
+    desc: 
+- talk:
+    title:
     speaker: Larry Hunter
     email: larry.hunter@uchsc.edu
     date: 2008-11-14
