@@ -6,11 +6,16 @@
     date: 2008-12-11
     desc: 
 - talk:
-    title:
+    title: 3R Systems for Biomedical Discovery Acceleration
     speaker: Larry Hunter
     email: larry.hunter@uchsc.edu
-    date: 2008-11-14
-    desc: 
+    date: 2008-11-13
+    desc: |
+      In this talk, I will describe a set of efforts that combines natural
+      language processing for information extraction, graphical network
+      models for semantic data integration, and some novel user interface
+      approaches into a system that has recently played a pivotal role in making
+      a significant biomedical discovery.
 - talk:
     title: Qemu - Open Source Virtualization
     speaker: Lori Reed
