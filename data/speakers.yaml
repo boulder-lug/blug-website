@@ -1,10 +1,16 @@
 ---
 - talk:
-    title:
-    speaker: 
+    title: Cameras In the Digital Age
+    speaker: Tom Christiansen
     email: 
     date: 2008-12-11
-    desc: 
+    desc: |
+      Nowthat everyone and their dog has some sort of a digital camera, what are
+      you supposed to do with it, and how? 
+
+      Please Note: Attendees should please bring their own digital camera if
+      possible, no matter how big or small or how old or new.
+
 - talk:
     title: 3R Systems for Biomedical Discovery Acceleration
     speaker: Larry Hunter
