@@ -1,5 +1,47 @@
 ---
 - talk:
+    title: 
+    speaker: Bruce Long
+    email: qstream@gmail.com
+    date: 2009-07-09
+    desc:
+- talk:
+    title: 
+    speaker: Rob Savoye
+    email: rob@openmedianow.com
+    date: 2009-06-11
+    desc:
+- talk:
+    title: 
+    speaker: Bryce Wilcox
+    email: zooko@zooko.com
+    date: 2009-05-14
+    desc:
+- talk:
+    title: 
+    speaker: Jason Haislmaier
+    email: Jason.Haislmaier@hro.com
+    date: 2009-04-09
+    desc:
+- talk:
+    title: "Cloud Computing for the Rest of Us: IT Infrastructure on the Shoulders of Giants."
+    speaker: Ned McClain
+    email: ned@atrust.com
+    date: 2009-03-12
+    desc:
+- talk: 
+    title:
+    speaker: Mike Friesenegger
+    email: mfriesenegger@novell.com
+    date: 2009-02-12
+    desc:
+- talk:
+    title: Asterix - OpenSource PBX
+    speaker: Sean Reifschneider
+    email: jaffo@tummy.com
+    date: 2009-01-08
+    desc:
+- talk:
     title: Cameras In the Digital Age
     speaker: Tom Christiansen
     email: 
