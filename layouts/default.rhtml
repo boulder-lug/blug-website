@@ -54,9 +54,12 @@ filter:    erb
 		<li><b>Date: </b><%= prev_meeting.date %></li>
         <li><b>Title: </b>
         <% if prev_meeting.presentation_link then %>
-            <a href="<%=prev_meeting.presentation_link %>"><%= prev_meeting.title %></a> 
+          <a href="<%=prev_meeting.presentation_link %>"><%= prev_meeting.title %></a> 
         <% else %>
             <%= prev_meeting.title %>
+        <% end %>
+        <% if prev_meeting.video_link then %>
+          <a href="<%=prev_meeting.video_link %>">[video]</a>
         <% end %>
         </li>
         <li><b>Speaker: </b> <%= prev_meeting.speaker %></li>

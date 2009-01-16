@@ -30,15 +30,16 @@
     date: 2009-03-12
     desc:
 - talk: 
-    title:
-    speaker: Mike Friesenegger
-    email: mfriesenegger@novell.com
+    title: To Be Announced
+    speaker: To Be Announced
+    email: 
     date: 2009-02-12
     desc:
 - talk:
-    title: Asterix - OpenSource PBX
+    title: "A Gentle Introduction to Asterisk: Taking Back Your Phone"
     speaker: Sean Reifschneider
     email: jaffo@tummy.com
+    presentation_link: http://www.tummy.com/Community/Presentations/asterisk-20090108/asterisk.html
     date: 2009-01-08
     desc:
 - talk:
@@ -57,6 +58,7 @@
     title: 3R Systems for Biomedical Discovery Acceleration
     speaker: Larry Hunter
     email: larry.hunter@uchsc.edu
+    video_link: http://video.google.com/videoplay?docid=6800805347307328279&hl=en
     date: 2008-11-13
     desc: |
       In this talk, I will describe a set of efforts that combines natural
@@ -97,6 +99,7 @@
 - talk:
     title: Crazy Emacs Tricks
     speaker: Tom Tromey
+    video_link: http://video.google.com/videoplay?docid=-3556628119843393532&hl=en
     email: tromey@redhat.com
     date: 2008-07-10
     desc: |
@@ -114,6 +117,7 @@
     title: Are commercial companies killing open source by paying people to work on it?
     speaker: Stormy Peters
     email: speters@openlogic.com
+    video_link: http://video.google.com/videoplay?docid=-3678508430633344244&hl=en
     date: 2008-05-08
     desc: |
       One of the things about the open source community that continues to baffle
@@ -131,6 +135,7 @@
     speaker: Jordon Crouse
     email: jordan.crouse@amd.com
     date: 2008-04-10
+    video_link: http://video.google.com/videoplay?docid=-4109696945360001971&hl=en
     presentation_link: /presentations/2008-04-10_Jordan-Crouse_Under-the-XO-Hood.pdf
     desc: |
       All the really low level stuff you ever wanted to know about the XO
@@ -153,6 +158,7 @@
     date: 2008-03-13
 - talk:
     title: Gnash, and the quest for Open Media politics and legalities.
+    video_link: http://video.google.com/videoplay?docid=-6160766899272579686&hl=en
     speaker: Rob Savoye
     email: rob@senecass.com
     date: 2008-02-14
