@@ -30,11 +30,16 @@
     date: 2009-03-12
     desc:
 - talk: 
-    title: To Be Announced
-    speaker: To Be Announced
+    title: "A day in the life of a Fedora Community"
+    speaker: Kevin Fenzi
     email: 
     date: 2009-02-12
-    desc:
+    desc: |
+      In the course of putting together a major Linux distribution one runs
+      across many interesting questions and chances for community
+      involvement. We will go over some news from the upcoming Fedora 11
+      release and commentary and discussion that arises from it. Bring your
+      Linux distribution related questions and a desire to learn and
 - talk:
     title: "A Gentle Introduction to Asterisk: Taking Back Your Phone"
     speaker: Sean Reifschneider
