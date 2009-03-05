@@ -25,10 +25,18 @@
     desc:
 - talk:
     title: "Cloud Computing for the Rest of Us: IT Infrastructure on the Shoulders of Giants."
-    speaker: Ned McClain
+    speaker: Ned McClain Co-founder and CTO of <a href="http://www.atrust.com">Applied Trust Engineering</a>
     email: ned@atrust.com
     date: 2009-03-12
-    desc:
+    desc: |
+      Cloud computing is the new "web 2.0" - everyone's got one.  We'll focus on                                                  
+      Linux-specific infrastructure offerings "in the cloud" and how you can use                                                  
+      them in production today.  By taking advantage of on-demand, pay-as-you-go                                                  
+      Linux servers and related services, you can save money today while                                                          
+      simultaneously increasing performance and availability.  We will get                                                        
+      hands-on during the meeting with Linux cloud solutions from Amazon and                                                      
+      RackSpace.  We'll also take a step back and look at architectures for                                                       
+      scaling Linux services "in the cloud". 
 - talk: 
     title: "A day in the life of a Fedora Community"
     speaker: Kevin Fenzi
