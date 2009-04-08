@@ -18,11 +18,13 @@
     date: 2009-05-14
     desc:
 - talk:
-    title: 
+    title: "Open Source Legal Topics"
     speaker: Jason Haislmaier
     email: Jason.Haislmaier@hro.com
     date: 2009-04-09
-    desc:
+    desc: |
+      Jason will be talking about various legal topics surrounding Open Source
+      software and spurring lots of discussion.  Bring your questions.
 - talk:
     title: "Cloud Computing for the Rest of Us: IT Infrastructure on the Shoulders of Giants."
     speaker: Ned McClain Co-founder and CTO of <a href="http://www.atrust.com">Applied Trust Engineering</a>
