@@ -12,16 +12,19 @@
     date: 2009-06-11
     desc:
 - talk:
-    title: 
-    speaker: Bryce Wilcox
+    title: "Secure Decentralized Storage"
+    speaker: "Zooko Wilcox-O'Hearn"
     email: zooko@zooko.com
     date: 2009-05-14
-    desc:
+    desc: |
+      Tahoe-LAFS is a peer-to-peer storage system.  It uses cryptography                                                                                                                                                    
+      and erasure-coding to protect your data.
 - talk:
     title: "Open Source Legal Topics"
     speaker: Jason Haislmaier
     email: Jason.Haislmaier@hro.com
     date: 2009-04-09
+    presentation_link: /presentations/2009-04-09_Jason-Hasilmaier_Open-Source-and-Law.pdf
     desc: |
       Jason will be talking about various legal topics surrounding Open Source
       software and spurring lots of discussion.  Bring your questions.
