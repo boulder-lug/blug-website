@@ -6,18 +6,23 @@
     date: 2009-07-09
     desc:
 - talk:
-    title: 
+    title: Cygnal a GNU rich media server
     speaker: Rob Savoye
     email: rob@openmedianow.com
     date: 2009-06-11
-    desc:
+    desc: |
+      This talk is about the new rich media server developed by the Gnash team
+      as a replacement for the Adobe Media Server. While there are several
+      streaming video servers in the FOSS world, there are none that are
+      capable of supporting the full interactive experience as the Adobe tools
+      till now.
 - talk:
     title: "Secure Decentralized Storage"
     speaker: "Zooko Wilcox-O'Hearn"
     email: zooko@zooko.com
     date: 2009-05-14
     desc: |
-      Tahoe-LAFS is a peer-to-peer storage system.  It uses cryptography                                                                                                                                                    
+      Tahoe-LAFS is a peer-to-peer storage system.  It uses cryptography 
       and erasure-coding to protect your data.
 - talk:
     title: "Open Source Legal Topics"
