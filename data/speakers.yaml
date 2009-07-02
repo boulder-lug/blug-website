@@ -5,32 +5,38 @@
     email: qstream@gmail.com
     date: 2009-07-09
     desc: |
-     The modern way of 'interfacing' with our digital stuff, our friends and
-     our world can be improved dramatically. Because each kind of interaction with
-     someone or some data has to have its own application, and applications vary for
-     each device, there are many things we do not do with our devices because it
-     takes too much work. We have to remember which device holds what information,
-     what format it is in, how each application works, which folders our stuff is
-     in. Some years ago I was struck that it should be possible to make interactions
-     with people, files, and online systems much much easier.  If only we could
-     model the things we wish to interact with, model the devices we have, and model
-     the kind of user interface we prefer. It could be so easy to interact with
-     something in a new way or from a new device that we will find all kinds of new,
-     world changing, things to do that previously didn't cross our mind.
+      The modern way of 'interfacing' with our digital stuff, our friends and
+      our world can be improved dramatically. Because each kind of interaction
+      with someone or some data has to have its own application, and
+      applications vary for each device, there are many things we do not do with
+      our devices because it takes too much work. We have to remember which
+      device holds what information, what format it is in, how each application
+      works, which folders our stuff is in. Some years ago I was struck that it
+      should be possible to make interactions with people, files, and online
+      systems much much easier.  If only we could model the things we wish to
+      interact with, model the devices we have, and model the kind of user
+      interface we prefer. It could be so easy to interact with something in a
+      new way or from a new device that we will find all kinds of new, world
+      changing, things to do that previously didn't cross our mind.
 
-     I set out to solve the problem once and for all. After a lot of C++
-coding, math learning, some paper writing, and a little PhD working, I'm still
-not there. And judging by the iPhone and the Palm Pre, no one else is either.
-But there is a growing technology that I have heard called "model-based user
-interfaces" that has the potential to completely change the way we connect.
-It solves the problems I worry about and much more. Here is a teaser: The idea
-is to use a model of your social infrastructure and information stores to make
-it feel more like directly connecting, in a sort of "make me part of a giant
-social brain" way to people and information instead of having apps and devices
-as intermediates limiting you.
+      I set out to solve the problem once and for all. After a lot of C++
+      coding, math learning, some paper writing, and a little PhD working, I'm
+      still not there. And judging by the iPhone and the Palm Pre, no one else
+      is either.  But there is a growing technology that I have heard called
+      "model-based user interfaces" that has the potential to completely change
+      the way we connect.  It solves the problems I worry about and much more.
+      Here is a teaser: The idea is to use a model of your social infrastructure
+      and information stores to make it feel more like directly connecting, in a
+      sort of "make me part of a giant social brain" way to people and
+      information instead of having apps and devices as intermediates limiting
+      you.
 
-
-
+      I am going to talk about some of the disruptive capabilities that
+      model-based UI's will give you. Though, perhaps anticlimactic, I'll
+      demonstrate my own work which is aimed at using model-based computing to
+      enhance personal independence while increasing our ability to connect
+      socially. I'll also talk about when we might expect results and how you
+      can become a part and speed the process up!
 - talk:
     title: Cygnal a GNU rich media server
     speaker: Rob Savoye
