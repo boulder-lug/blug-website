@@ -1,10 +1,36 @@
 ---
 - talk:
-    title: 
+    title: Model-based user interfaces
     speaker: Bruce Long
     email: qstream@gmail.com
     date: 2009-07-09
-    desc:
+    desc: |
+     The modern way of 'interfacing' with our digital stuff, our friends and
+     our world can be improved dramatically. Because each kind of interaction with
+     someone or some data has to have its own application, and applications vary for
+     each device, there are many things we do not do with our devices because it
+     takes too much work. We have to remember which device holds what information,
+     what format it is in, how each application works, which folders our stuff is
+     in. Some years ago I was struck that it should be possible to make interactions
+     with people, files, and online systems much much easier.  If only we could
+     model the things we wish to interact with, model the devices we have, and model
+     the kind of user interface we prefer. It could be so easy to interact with
+     something in a new way or from a new device that we will find all kinds of new,
+     world changing, things to do that previously didn't cross our mind.
+
+     I set out to solve the problem once and for all. After a lot of C++
+coding, math learning, some paper writing, and a little PhD working, I'm still
+not there. And judging by the iPhone and the Palm Pre, no one else is either.
+But there is a growing technology that I have heard called "model-based user
+interfaces" that has the potential to completely change the way we connect.
+It solves the problems I worry about and much more. Here is a teaser: The idea
+is to use a model of your social infrastructure and information stores to make
+it feel more like directly connecting, in a sort of "make me part of a giant
+social brain" way to people and information instead of having apps and devices
+as intermediates limiting you.
+
+
+
 - talk:
     title: Cygnal a GNU rich media server
     speaker: Rob Savoye
@@ -22,7 +48,7 @@
     email: zooko@zooko.com
     date: 2009-05-14
     desc: |
-      Tahoe-LAFS is a peer-to-peer storage system.  It uses cryptography 
+      Tahoe-LAFS is a peer-to-peer storage system.  It uses cryptography
       and erasure-coding to protect your data.
 - talk:
     title: "Open Source Legal Topics"
@@ -39,18 +65,18 @@
     email: ned@atrust.com
     date: 2009-03-12
     desc: |
-      Cloud computing is the new "web 2.0" - everyone's got one.  We'll focus on                                                  
-      Linux-specific infrastructure offerings "in the cloud" and how you can use                                                  
-      them in production today.  By taking advantage of on-demand, pay-as-you-go                                                  
-      Linux servers and related services, you can save money today while                                                          
-      simultaneously increasing performance and availability.  We will get                                                        
-      hands-on during the meeting with Linux cloud solutions from Amazon and                                                      
-      RackSpace.  We'll also take a step back and look at architectures for                                                       
-      scaling Linux services "in the cloud". 
-- talk: 
+      Cloud computing is the new "web 2.0" - everyone's got one.  We'll focus on
+      Linux-specific infrastructure offerings "in the cloud" and how you can use
+      them in production today.  By taking advantage of on-demand, pay-as-you-go
+      Linux servers and related services, you can save money today while
+      simultaneously increasing performance and availability.  We will get
+      hands-on during the meeting with Linux cloud solutions from Amazon and
+      RackSpace.  We'll also take a step back and look at architectures for
+      scaling Linux services "in the cloud".
+- talk:
     title: "A day in the life of a Fedora Community"
     speaker: Kevin Fenzi
-    email: 
+    email:
     date: 2009-02-12
     desc: |
       In the course of putting together a major Linux distribution one runs
@@ -68,11 +94,11 @@
 - talk:
     title: Cameras In the Digital Age
     speaker: Tom Christiansen
-    email: 
+    email:
     date: 2008-12-11
     desc: |
       Nowthat everyone and their dog has some sort of a digital camera, what are
-      you supposed to do with it, and how? 
+      you supposed to do with it, and how?
 
       Please Note: Attendees should please bring their own digital camera if
       possible, no matter how big or small or how old or new.
