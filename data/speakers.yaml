@@ -1,5 +1,14 @@
 ---
 - talk:
+    title: Supercomputing
+    email: davide.del.vento@gmail.com
+    speaker: Davide Del Vento
+    date: 2009-08-13
+    desc: |
+      The five W's of supercomputing: What is supercomputing?  Who does it?
+      Why?  When and Where will also be quickly mentioned.  Given those, How
+      does Linux fit in the picture.
+- talk:
     title: Model-based user interfaces
     speaker: Bruce Long
     email: qstream@gmail.com
