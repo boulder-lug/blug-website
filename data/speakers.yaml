@@ -1,5 +1,18 @@
 ---
 - talk:
+    title: The Android Platform: a new kind of Linux
+    email: neal@bcn.boulder.co.us
+    speaker: Neal McBurnett
+    date: 2009-09-10
+    desc: |
+      Google's new Android platform is Linux, but not as you know Linux.  And it
+      is Java, but not Sun's Java.  Come get an overview of how it is different,
+      what you can do with it, how open it really is, and where it is going.
+      Besides many mobile phones in the pipeline, there are announcements of
+      devices like GPS, netbook, media players, etc.  We'll also quickly discuss
+      using Java or Ajax/HTML5 for development, and hopefully whet your interest
+      in this fun new platform.
+- talk:
     title: Supercomputing
     email: davide.del.vento@gmail.com
     speaker: Davide Del Vento
