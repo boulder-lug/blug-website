@@ -1,5 +1,14 @@
 ---
 - talk:
+    title: "Production Linux Security - Balancing Reality vs. Security Nirvana"
+    email: trent@atrust.com
+    speaker: Trent R. Hein
+    date: 2009-10-08
+    desc: |
+      Linux has become common in the production computing arena.  This talk
+      will address the top threats to systems in this role as well as both
+      technical and philosophical protection mechanisms.
+- talk:
     title: "The Android Platform: a new kind of Linux"
     email: neal@bcn.boulder.co.us
     speaker: Neal McBurnett
