@@ -1,5 +1,14 @@
 ---
 - talk:
+    title: "PostgreSQL database replication with SLONY I"
+    email: kevin@kevinkempterllc.com
+    speaker: Kevin Kempter
+    date: 2009-11-12
+    desc: |
+      Replicate your data or suffer the consequences when (not if) you
+      experience a failure - or - The many uses and approaches to
+      PostgreSQL data replication for fun and profit!
+- talk:
     title: "Production Linux Security - Balancing Reality vs. Security Nirvana"
     email: trent@atrust.com
     speaker: Trent R. Hein
