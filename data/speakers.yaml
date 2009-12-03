@@ -1,5 +1,15 @@
 ---
 - talk:
+    title: "OpenStreetMap: The Past, Present, Future, What That Means To You and Having Fun!"
+    email: hurricane@hurricanemcewen.com
+    speaker: Hurricane McEwen
+    date: 2009-12-10
+    desc: |
+      OpenStreetMap is a worldwide wiki style project with maps. It is just over
+      5 years old with almost 200,000 members around the globe. It is an open
+      source project, with open data to all those who want to contribute and use
+      the data.
+- talk:
     title: "PostgreSQL database replication with SLONY I"
     email: kevin@kevinkempterllc.com
     speaker: Kevin Kempter
