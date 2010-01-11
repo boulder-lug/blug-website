@@ -1,5 +1,15 @@
 ---
 - talk:
+    title: "The Go Programming Language"
+    email: cargill@profcon.com
+    speaker: Tom Cargill
+    date: 2010-01-14
+    desc: |
+      Go is a new systems programming language, created by Rob Pike et al. at Google,
+      http://golang.org.  I will focus on its in-the-large properties, like: execution
+      safety, OO support, concurrency, comopilation model rather than in-the-small
+      syntactic issues.
+- talk:
     title: "OpenStreetMap: The Past, Present, Future, What That Means To You and Having Fun!"
     email: hurricane@hurricanemcewen.com
     speaker: Hurricane McEwen
