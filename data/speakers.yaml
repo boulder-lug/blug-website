@@ -1,5 +1,14 @@
 ---
 - talk:
+    title: "Nagios Open Source Monitoring"
+    email: csmcdermott@gmail.com
+    speaker: Chris McDermott
+    date: 2010-02-11
+    desc: |
+      A brief run down of the application and basic operations, followed by
+      a look at ways to extend the platform and do cool things like graph
+      performance data over time.
+- talk:
     title: "The Go Programming Language"
     email: cargill@profcon.com
     speaker: Tom Cargill
