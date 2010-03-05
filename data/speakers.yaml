@@ -1,5 +1,16 @@
 ---
 - talk:
+    title: "Machine Learning"
+    email: davide.del.vento@gmail.com
+    speaker: Davide Del Vento
+    date: 2010-03-11
+    desc: |
+    Once relegated into the Research Lab or into Artificial Intelligence
+    Science Fiction, now Machine Learning is commonly found in Production
+    Systems. I'll introduce the audience to the field, showing what
+    Machine Learning is, and what is actually good at.
+
+- talk:
     title: "Nagios Open Source Monitoring"
     email: csmcdermott@gmail.com
     speaker: Chris McDermott
