@@ -1,5 +1,16 @@
 ---
 - talk:
+    title: "Arduino and your Linux box"
+    email: "bbearnes@gmail.com"
+    speaker: Brennen Bearnes
+    date: 2010-04-08
+    desc: |
+       Arduino is a popular, mostly-open platform for developing
+       embedded systems, or what's sometimes referred to as physical computing.
+       We'll go over the basics of getting started with Arduino development,
+       talk about the capabilities of the platform, and run through some example
+       projects.  
+- talk:
     title: "Machine Learning"
     email: davide.del.vento@gmail.com
     speaker: Davide Del Vento
