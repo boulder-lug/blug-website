@@ -1,5 +1,12 @@
 ---
 - talk:
+    title: "Linux Photography Workflow Tools"
+    email: kevink@consistentstate.com
+    speaker: Kevin Kempter
+    date: 2010-05-13
+    desc: |
+        A tour of linux based photography tools.
+- talk:
     title: "Arduino and your Linux box"
     email: "bbearnes@gmail.com"
     speaker: Brennen Bearnes
