@@ -1,5 +1,14 @@
 ---
 - talk:
+    title: "GPS, or: How to get lost while still knowing where you are"
+    email: ted.logan@gmail.com
+    speaker: Ted Logan
+    date: 2010-06-10
+    desc: |
+        Location-based computing may be the Next Big Thing (tm). What can you
+        do if you know where you are?
+
+- talk:
     title: "Linux Photography Workflow Tools"
     email: kevink@consistentstate.com
     speaker: Kevin Kempter
