@@ -1,5 +1,17 @@
 ---
 - talk:
+    title: |
+        Select-o-Magic 3000 - A program for generating pseudo-random audio file play lists
+        basedup on key criteria
+    email: lorireed@lightning-rose.com
+    speaker: Lori Reed
+    date: 2010-07-08
+    desc: |
+        Select-o-Magic 3000 is an open source GUI application that builds a
+        simple data base of your audio files and allows you to create a filtered m3u
+        play list based on the genre, artist, year of release, and album title. For the
+        last ten years, the author has wanted this program for her own use. 
+- talk:
     title: "GPS, or: How to get lost while still knowing where you are"
     email: ted.logan@gmail.com
     speaker: Ted Logan
