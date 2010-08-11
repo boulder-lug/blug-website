@@ -1,5 +1,17 @@
 ---
 - talk:
+    title: Advanced File-Systems: ZFS and Btrfs
+    email: jafo@tummy.com
+    speaker: Sean Reifschneider
+    date: 2010-08-12
+    desc: |
+        While the currently-available file-systems for Linux are very stable,
+        they are missing features that many other operating systems have had for
+        years such as file-system snapshots.  ZFS and Btrfs offer the latest
+        file-system advancements to Linux users.  Sean will discuss their
+        features, benefits and drawbacks, status and stability, and provide
+        demonstrations.
+- talk:
     title: |
         Select-o-Magic 3000 - A program for generating pseudo-random 
         audio file play lists basedup on key criteria
