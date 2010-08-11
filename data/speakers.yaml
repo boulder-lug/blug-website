@@ -1,6 +1,6 @@
 ---
 - talk:
-    title: Advanced File-Systems: ZFS and Btrfs
+    title: "Advanced File-Systems: ZFS and Btrfs"
     email: jafo@tummy.com
     speaker: Sean Reifschneider
     date: 2010-08-12
