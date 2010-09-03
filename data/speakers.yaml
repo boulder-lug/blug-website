@@ -1,5 +1,26 @@
 ---
 - talk:
+    title: "The Evolution of Lower Middle UNIX Userland 1985-2010"
+    email: bart.massey@gmail.com
+    speaker: Bart Massey
+    date: 2010-09-09
+    desc: |
+        In about 1985 I got to use a UNIX box for the first time.  Much has
+        changed; much has stayed the same.  In succeeding years, attention has focused
+        on the top and bottom of the UNIX software stack.  At the bottom of the stack
+        the Linux kernel, advanced device drivers, for modern hardware and X-based
+        multimedia have evolved to provide a rich substrate.  Near the top of the stack
+        GUIs, web services, and other high-level services attempt to provide a solid
+        user experience.  Between these endpoints change has been much less swift, and
+        complexity and cruft has piled up.
+        
+        In this talk I will briefly survey the 25-year evolution of the programming
+        languages, libraries, and services that constitute the most basic layers of
+        UNIX userland.  Along the way I will advocate several fundamental changes that
+        I think are highly desirable: a better programming language, cleaner and
+        simpler architectures, and better interface toolkits.  I will also report on
+        some research toward achieving these goals.
+- talk:
     title: "Advanced File-Systems: ZFS and Btrfs"
     email: jafo@tummy.com
     speaker: Sean Reifschneider
