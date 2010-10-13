@@ -1,5 +1,16 @@
 ---
 - talk:
+    title: "Clouds Killed the SysAdmin Star"
+    email: trent@atrust.com
+    speaker: "Trent R. Hein"
+    date: 2010-10-14
+    desc: |
+        Does the advent of cloud computing spell the end of
+        system administrators?  Are we doomed?  Join us as we explore a variety of
+        ideas that suggest system administrators aren't going away anytime soon, or
+        maybe ever.  And, maybe a few handy tips for managing an environment
+        utilizing with cloud-based infrastructure.
+- talk:
     title: "The Evolution of Lower Middle UNIX Userland 1985-2010"
     email: bart.massey@gmail.com
     speaker: Bart Massey
