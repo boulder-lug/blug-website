@@ -1,5 +1,19 @@
 ---
 - talk:
+    title: "Untethered Linux: Using Linux away from the Home and Office."
+    email: jafo@tummy.com
+    speaker: Sean Reifschneider
+    date: 2010-11-11
+    desc: |
+        Increasing popularity of the "Third Place" (a significant space
+        outside of your home and work where people congregate -- think the pub
+        in _Cheers_; "Norm!"), and the incorporation of technology and telecommuting
+        has lead to significant technology challenges.  Sean Reifschneider has been
+        working untethered since 2000 and today tummy.com is organized such that people
+        can largely work wherever they want.  In this presentation, Sean will discuss
+        some of the challenges, solutions and choices that are involved with being
+        untethered, yet still connected.
+- talk:
     title: "Clouds Killed the SysAdmin Star"
     email: trent@atrust.com
     speaker: "Trent R. Hein"
