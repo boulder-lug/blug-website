@@ -1,5 +1,13 @@
 ---
 - talk:
+    title: "Open Source, Software Patents and Other Legal Topics of Interest"
+    eamil: Jason.Haislmaier@hro.com
+    speaker: Jason Haislmaier
+    date: 2010-12-09
+    desc: |
+        A discussion on Open Source, Software Patents and any other topics
+        that BLUG members want to discuss during the meeting.
+- talk:
     title: "Untethered Linux: Using Linux away from the Home and Office."
     email: jafo@tummy.com
     speaker: Sean Reifschneider
