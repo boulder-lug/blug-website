@@ -1,7 +1,14 @@
 ---
 - talk:
+    title: "TBD"
+    email: msallee@globe.gov
+    speaker: Mark Sallee
+    date: 2011-01-13
+    desc: |
+        TBD
+- talk:
     title: "Open Source, Software Patents and Other Legal Topics of Interest"
-    eamil: Jason.Haislmaier@hro.com
+    email: Jason.Haislmaier@hro.com
     speaker: Jason Haislmaier
     date: 2010-12-09
     desc: |
