@@ -1,11 +1,16 @@
 ---
 - talk:
-    title: "TBD"
-    email: msallee@globe.gov
+    title: "The Mysteries of Xen Virtualization"
+    email: msallee@ucar.edu
     speaker: Mark Sallee
     date: 2011-01-13
     desc: |
-        TBD
+        What if your server could do more?  Studies have shown that many server
+        CPUs are only around 10-20% used.  This presentation is a sys admin's overview
+        of Xen tools towards the goal of portable virtual machines.  We'll go over the
+        features and configuration of open-source Xen and XenServer, and talk about
+        what these tools can do for an organization.  If time permits, we may also
+        discuss the use of Puppet for server configuration management.
 - talk:
     title: "Open Source, Software Patents and Other Legal Topics of Interest"
     email: Jason.Haislmaier@hro.com
