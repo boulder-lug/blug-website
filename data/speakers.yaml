@@ -1,5 +1,18 @@
 ---
 - talk:
+    title: "Unlocking the Secrets of Git"
+    email: tom@github.com
+    speaker: Tom Preson-Werner
+    date: 2011-02-10
+    desc: |
+        Everyone knows that Git is the tremendously powerful distributed
+        version control system created by Linus Torvalds, but did you know
+        that Git is really just a userland file system with some extra goodies
+        to make it work for version control? This secret life of Git allows us
+        to do some insanely great things. In this talk I'll show you how Git
+        works under the covers and give you a taste of what's possible when
+        you understand the magic within.
+- talk:
     title: "The Mysteries of Xen Virtualization"
     email: msallee@ucar.edu
     speaker: Mark Sallee
