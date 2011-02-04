@@ -71,7 +71,7 @@
         GUIs, web services, and other high-level services attempt to provide a solid
         user experience.  Between these endpoints change has been much less swift, and
         complexity and cruft has piled up.
-        
+
         In this talk I will briefly survey the 25-year evolution of the programming
         languages, libraries, and services that constitute the most basic layers of
         UNIX userland.  Along the way I will advocate several fundamental changes that
@@ -92,7 +92,7 @@
         demonstrations.
 - talk:
     title: |
-        Select-o-Magic 3000 - A program for generating pseudo-random 
+        Select-o-Magic 3000 - A program for generating pseudo-random
         audio file play lists basedup on key criteria
     email: lorireed@lightning-rose.com
     speaker: Lori Reed
@@ -100,9 +100,9 @@
     desc: |
         Select-o-Magic 3000 is an open source GUI application that
         builds a simple data base of your audio files and allows you to
-        create a filtered m3u play list based on the genre, artist, 
-        year of release, and album title. For the last ten years, the 
-        author has wanted this program for her own use. 
+        create a filtered m3u play list based on the genre, artist,
+        year of release, and album title. For the last ten years, the
+        author has wanted this program for her own use.
 - talk:
     title: "GPS, or: How to get lost while still knowing where you are"
     email: ted.logan@gmail.com
@@ -129,7 +129,7 @@
        embedded systems, or what's sometimes referred to as physical computing.
        We'll go over the basics of getting started with Arduino development,
        talk about the capabilities of the platform, and run through some example
-       projects.  
+       projects.
 - talk:
     title: "Machine Learning"
     email: davide.del.vento@gmail.com
