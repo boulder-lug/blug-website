@@ -17,6 +17,7 @@
     email: msallee@ucar.edu
     speaker: Mark Sallee
     date: 2011-01-13
+    presentation_link: /presentations/2011-01-13_Mark-Sallee_Xen.pdf
     desc: |
         What if your server could do more?  Studies have shown that many server
         CPUs are only around 10-20% used.  This presentation is a sys admin's overview
