@@ -1,5 +1,33 @@
 ---
 - talk:
+    title: "Resistance is Futile - Easy to use cloud-scale monitoring with the Assimilation Monitoring project"
+    email: alanr@unix.sh
+    speaker: Alan Robertson
+    date: 2011-03-10
+    desc: |
+        The Assimilation monitoring project is a new open source data center
+        monitoring project designed to be easy to install and configure, and scale
+        to tens of thousands of servers.
+
+        It employs a new O(1) server monitoring method, and implements a "no news
+        is good news" policy.  Most systems will run a centrally-configured
+        low-overhead nanoprobe, which report back only when problems occur.  A small
+        number of systems (NetApps, UPSes, and so on) cannot run the probe software,
+        and will be monitored by the other systems with nanoprobes - distributing
+        out the monitoring load evenly across these other systems.
+
+        These nanoprobes discover local server configuration, local switch
+        configuration and the presence of other servers in the network - avoiding
+        using security-unfriendly port scanning or similar techniques.
+
+        Another novel aspect of the system is that in addition to being highly
+        scalable in terms of maximum size, it is highly network-topology aware -
+        with less than 1% of traffic going outside the local (top of rack or other)
+        switches.
+        This project is at a early development stage with about 6500
+        well-documented lines of code currently written.  It is expected to be
+        usable in early production sites in the next few months.
+- talk:
     title: "Unlocking the Secrets of Git"
     email: tom@github.com
     speaker: Tom Preston-Werner
