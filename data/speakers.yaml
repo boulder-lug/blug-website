@@ -1,5 +1,18 @@
 ---
 - talk:
+    title: "Mastering Puppet for Infrastructure Automation"
+    email: bwhaley@gmail.com
+    speaker: Ben Whaley
+    date: 2011-04-14
+    desc: |
+        Think about the current state of systems in your most familiar mid- to
+        large-sized Linux deployment. Do words like "inconsistent," "embarrassing,"
+        and "trainwreck" come to mind? In many cases, Linux systems that are members
+        of a growing server farm are a cacophony of unruly packages, disparate
+        configuration files, and unreliable services. Learn how to correct the chaos
+        using Puppet, an open source server automation tool. Talk and demo with a
+        twist of cloud.
+- talk:
     title: "Resistance is Futile - Easy to use cloud-scale monitoring with the Assimilation Monitoring project"
     email: alanr@unix.sh
     speaker: Alan Robertson
