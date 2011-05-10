@@ -1,5 +1,17 @@
 ---
 - talk:
+    title: "Technical Skills Certifications: Why, what, and how?"
+    email: DLWillson@thegeek.nu
+    speaker: David L. Wilson
+    date: 2011-05-12
+    desc: |
+        I intend first to discuss intelligent reasons why I believe that
+        techical people should pursue certifications that are relevant to their
+        career goals.  Then, I (and a guest or three) will discuss
+        certifications we have, what they cover. And last, I will discuss very
+        specific strategies in developing skill-sets and acquiring
+        certifications.
+- talk:
     title: "Mastering Puppet for Infrastructure Automation"
     email: bwhaley@gmail.com
     speaker: Ben Whaley
