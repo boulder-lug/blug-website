@@ -1,5 +1,38 @@
 ---
 - talk:
+    title: "EXT File System Forensics"
+    email: hal@deer-run.com
+    speaker: Hal Pomeranz
+    date: 2011-06-09
+    desc: |
+        The classic problem with recovering deleted data in modern Linux EXT
+        file systems is that when inode meta-data structures are reallocated,
+        the block pointer information in these structures is zeroed.  This
+        makes direct reassembly of the original file extremely difficult.
+
+        File-carving techniques (foremost, scalpel, et al) can sometimes be
+        used when the target file has well-defined start and end signatures.
+        However, many common Linux file formats lack these signatures or have
+        no well-defined end of file marker-- e.g., compressed or gzip data,
+        tar archives, and so on.  Also, these file-carving techniques can run
+        afoul of meta-data information-- indirect block pointers-- embedded in
+        the block stream of larger files.  When this meta-data information is
+        naively incorporated into the recovered data blocks, the usual result
+        is a corrupted and unreadable file.  Traditional file-carving tools
+        simply "work around" (skip) indirect block data with varying degrees
+        of success.  But simply skipping this indirect block metadata misses
+        out on a golden opportunity to easily recover most or all of the
+        original file.
+
+        The presentation will begin with an overview of EXT file systems and
+        the indirect block pointer mechanism.  The limitations of existing
+        file carving tools will be demonstrated.  Then we will use existing
+        and newly developed tools to detect indirect blocks to manually
+        recover file data from an actual file system.  Time permitting,
+        we'll look into the newer EXT4 file system and discuss issues that
+        will complicate forensics on newer Linux systems.
+
+- talk:
     title: "Technical Skills Certifications: Why, what, and how?"
     email: DLWillson@thegeek.nu
     speaker: David L. Wilson
