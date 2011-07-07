@@ -1,5 +1,19 @@
 ---
 - talk:
+    title: "Quantum Computing: The Qubit for Programmers"
+    email: cargill@profcon.com
+    speaker: Tom Cargill
+    date: 2011-07-14
+    desc: |
+        The power of a quantum computer can far exceed that of a classical
+        computer, at least in theory.  This power derives from the
+        characteristics of the "qubit," the quantum analog of the classical bit.
+        Typical descriptions of the qubit assume a math background beyond that of
+        typical programmers.  I will offer an accurate, but unconventional, description
+        of the qubit in terms familiar to most programmers -- common data structures
+        and algorithms.  This description will convey the nature of quantum computing's
+        power.
+- talk:
     title: "EXT File System Forensics"
     email: hal@deer-run.com
     speaker: Hal Pomeranz
