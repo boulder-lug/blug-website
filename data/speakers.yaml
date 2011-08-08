@@ -1,5 +1,12 @@
 ---
 - talk:
+    title: "So You Want Some IPv6?"
+    email: aaron@alltheshortonesweretaken.com
+    speaker: Aaron D. Johnson
+    date: 2011-08-11
+    desc: |
+      IPv6, What does it look like? And where to get hooked up?
+- talk:
     title: "Quantum Computing: The Qubit for Programmers"
     email: cargill@profcon.com
     speaker: Tom Cargill
