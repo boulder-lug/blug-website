@@ -1,5 +1,25 @@
 ---
 - talk:
+    title: "IT IP"
+    email: jason.haislmaier@hro.com
+    speaker: Jason Haislmaier
+    date: 2011-12-08
+- talk:
+    title: "Android Something-or-Other"
+    email: ross@boulderandroid.com
+    speaker: Ross Ingram
+    date: 2011-11-10
+- talk:
+    title: "The Semantic Web - the dreams and the reality"
+    email: tdigennaro@ieee.org
+    speaker: Tom "Oz" DiGennaro
+    date: 2011-10-13
+- talk:
+    title: "Appinventor: Easy android applications"
+    email: efm@tummy.com
+    speaker: Evelyn Mitchell
+    date: 2011-09-08
+- talk:
     title: "So You Want Some IPv6?"
     email: aaron@alltheshortonesweretaken.com
     speaker: Aaron D. Johnson
