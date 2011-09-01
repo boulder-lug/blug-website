@@ -19,6 +19,23 @@
     email: efm@tummy.com
     speaker: Evelyn Mitchell
     date: 2011-09-08
+    desc: |
+      AppInventor, a Google project, is a visual programming environment for
+      developing applications for Android devices.
+
+      It has been around for about a year, and has been most enthusiastically
+      adopted as a programming education tool.
+
+      I'm going to do a demonstration of using AppInventor to create a tiny
+      Android App, including all of the setup you will need to do on your current
+      Linux system to use it. I'll also discuss the changes that are happening
+      within the AppInventor ecosystem.
+
+      This talk is suitable for people who are looking for a way to introduce
+      non-programmers to programming on Android, or for those interested in
+      visual programming. It will NOT be an overly technical talk, so I would
+      encourage you to bring your favorite novice along.
+
 - talk:
     title: "So You Want Some IPv6?"
     email: aaron@alltheshortonesweretaken.com
