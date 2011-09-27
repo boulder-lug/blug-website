@@ -14,6 +14,12 @@
     email: tdigennaro@ieee.org
     speaker: Tom "Oz" DiGennaro
     date: 2011-10-13
+    desc: |
+      To be a citizen of the Semantic Web a server will query other citizens
+      (servers) using SPARQL, and in turn respond to queries.  The Galgal semantic
+      server is able to take in unstructured text, and produce highly-structured
+      documents.  NLP, text indexing, public and local ontologies are the
+      foundation.  User interface and authoring software bring it to the user.
 - talk:
     title: "Appinventor: Easy android applications"
     email: efm@tummy.com
