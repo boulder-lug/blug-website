@@ -114,7 +114,7 @@ The #{next_meeting_date.strftime("%B")} Boulder Linux User Group meeting is #{fu
 
 Speaker : #{next_meeting_talk['speaker'].gsub(/<(.|\n)*?>/,'')}
 
-   When : 7 p.m. on #{next_meeting_date.strftime("%a, %b %d, %Y")} 
+   When : 7:15 p.m. on #{next_meeting_date.strftime("%a, %b %d, %Y")} 
 
   Where : Aztek Networks, 2477 55th St, Suite 202, Boulder, CO.
 
@@ -140,9 +140,8 @@ msg += <<FOOTER
 Pre meeting food
 ----------------
 
-Please join us informally for a bite to eat at Panera Bread before the
-meeting, around 5:30 P.M.  Panera is in the 29th street mall, east of
-Highway 36/28th street near Walnut.
+Food will be available at the meeting location, so please show up around 6:45 pm
+and join us for a bite to eat. We'll start the meeting about 7:15.
 
 
 --
