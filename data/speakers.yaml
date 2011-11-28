@@ -1,9 +1,17 @@
 ---
 - talk:
-    title: "IT IP"
+    title: "What's new in open source"
     email: jason.haislmaier@hro.com
     speaker: Jason Haislmaier
     date: 2011-12-08
+    desc: |
+      Join Jason Haislmaier for a presentation on some of the recent legal
+      happenings in the open source world, including: Software patent law suits
+      and open source. Understanding and interpreting open source licenses.
+      Using open source in cloud and web services business models.  Maintaining
+      proprietary IP in an open source world.  Meeting the open source
+      expectations of customers, investors, and acquirers, Releasing software
+      under open source licenses
 - talk:
     title: "Android Something-or-Other"
     email: ross@boulderandroid.com
