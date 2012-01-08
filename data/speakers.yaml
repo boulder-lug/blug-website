@@ -1,5 +1,18 @@
 ---
 - talk:
+    title: "LAMP Stack Administration Tricks & Tips"
+    email: rich@quicloud.com
+    speaker: Rich Morrow
+    date: 2012-01-12
+    desc: |
+      Linux Apache MySQL and PHP (LAMP) Stacks are everywhere, and regardless of
+      if you're running a CMS (Drupal, Wordpress), or your own custom software on
+      top of yours, the things you need to do with your stack on a week-to-week
+      basis are amazingly similar. rICh brings over 20 years of LAMP stack admin
+      experience, and in this talk, he'll walk you through a few of the tips and
+      tricks he's found extremely useful at each layer, and some of the tools he
+      uses when deciding how to best scale the stack.
+- talk:
     title: "What's new in open source law"
     email: jason.haislmaier@hro.com
     speaker: Jason Haislmaier
