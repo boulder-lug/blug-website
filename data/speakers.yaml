@@ -1,5 +1,15 @@
 ---
 - talk:
+    title: "Everything you wanted to know about Fedora Infrastructure"
+    email: kevin@scrye.com
+    speaker: Kevin Fenzi
+    date: 2012-02-09
+    desc: |
+      Have you ever wondered how a global project like Fedora manages and
+      grows it's infrastructure? I'll tell you all about the Fedora Projects
+      Open Source Infrastructure, including software used, networking and
+      connections and how to join us!
+- talk:
     title: "LAMP Stack Administration Tricks & Tips"
     email: rich@quicloud.com
     speaker: Rich Morrow
