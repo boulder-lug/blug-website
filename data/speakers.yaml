@@ -1,5 +1,14 @@
 ---
 - talk:
+    title: "PostgeSQL H/A Methods"
+    email: kevin@consistentstate.com
+    speaker: Keven Kempter
+    date: 2012-03-08
+    desc: |
+      A discussion of the various options for implementing H/A with PostgreSQL.
+      We'll cover a few popular methods / technologies and discuss the issues of
+      failover & switchover and a few of the upcoming technologies on the horizon.
+- talk:
     title: "Everything you wanted to know about Fedora Infrastructure"
     email: kevin@scrye.com
     speaker: Kevin Fenzi
