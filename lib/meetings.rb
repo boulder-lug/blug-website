@@ -116,13 +116,21 @@ Speaker : #{next_meeting_talk['speaker'].gsub(/<(.|\n)*?>/,'')}
 
    When : 7:15 p.m. on #{next_meeting_date.strftime("%a, %b %d, %Y")} 
 
-  Where : Aztek Networks, 2477 55th St, Suite 202, Boulder, CO.
+  Where : Applied Trust, 1033 Walnut St, Bulder, CO 80302
 
-          Aztek Networks is on 55th between Arapahoe and Pearl, just
-          north of the Humane Society.  There's plenty of parking, and
-          the 206 and 208 busses stop across the street.
+          Applied Trust is on Walnut Street in downtown Boulder. It is
+          the door just west of Amante Coffee.
 
     Map : http://lug.boulder.co.us/meetings.html
+
+Parking : Parking on the street is free after 7pm and there are 2 public
+          garages on Walnut at $1.25/hour and bike parking on the sidewalk
+          in front of the office.
+
+    Bus : Less than 2 blocks from Broadway which is served by the Skip busses.
+          Less than 4 blocks from the Boulder Transit Center which serves
+          almost all routes.
+
 EOM
 
 if next_meeting_talk['desc'] then
