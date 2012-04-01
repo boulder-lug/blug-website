@@ -1,5 +1,12 @@
 ---
 - talk:
+    title: "To Be Announced"
+    email: trent@appliedtrust.com
+    speaker: Trent R. Hein
+    date: 2012-04-12
+    desc: |
+      Trent Hein will talk about a very interesting topic.
+- talk:
     title: "PostgeSQL H/A Methods"
     email: kevin@consistentstate.com
     speaker: Keven Kempter
