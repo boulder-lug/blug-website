@@ -1,5 +1,22 @@
 ---
 - talk:
+    title: "Software Development In The Trenches..."
+    email: jafo@tummy.com
+    speaker: Sean Reifschneider
+    date: 2012-06-14
+    desc: |
+      Late last year I somehow managed to haul myself out of bed before 7am on
+      a Saturday and attend a Code Retreat.  We spent the day, except for a
+      lunch break, splitting into groups of 2 or 3 people and spend 30 minutes
+      experimenting with developing software.  At the end of the 30 minutes
+      you delete the progress so far and start over with a new group.
+      The goal is that you should not be able to complete the program, but
+      instead you should concentrate on software development best practices
+      such as testing, documentation, pair-programming, and even refactoring
+      came into play.
+      In this talk I will talk about my experiences at my first Code Retreat
+      and how it has impacted my software development since.
+- talk:
     title: "Surviving the GNU Autotools"
     email: rob@senecass.com
     speaker: Rob Savoye
