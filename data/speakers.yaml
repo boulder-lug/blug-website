@@ -1,5 +1,18 @@
 ---
 - talk:
+    title: "Title: Unifying your device cloud with a personal distributed meta-computer"
+    email: "qstream@gmail.com"
+    speaker: "Bruce Long"
+    date: 2012-07-12
+    desc: |
+      The Slipstream in an open-source project that uses models of your
+      computing resources, friends, stuff, etc. to transparently
+      create a personal "meta-computer" out of all your CPUs, GPUs,screens,
+      storage facilities, etc. By abstracting the UI/UX for all your
+      interactions into a separate model of its own you'll be able to choose
+      whether you interact with a GUI, CLI, Touch-UI, Gesture-UI or whatever
+      else someone can model.
+- talk:
     title: "Software Development In The Trenches..."
     email: jafo@tummy.com
     speaker: Sean Reifschneider
