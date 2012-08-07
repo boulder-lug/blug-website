@@ -1,6 +1,12 @@
 ---
+- talk: 
+    title: "Gaming on Linux"
+    email: DLWillson@thegeek.nu
+    speaker: "David L. Wilson"
+    date: 2012-08-09
+    desc: Time to talk about gaming on Linux!
 - talk:
-    title: "Title: Unifying your device cloud with a personal distributed meta-computer"
+    title: "Unifying your device cloud with a personal distributed meta-computer"
     email: "qstream@gmail.com"
     speaker: "Bruce Long"
     date: 2012-07-12
