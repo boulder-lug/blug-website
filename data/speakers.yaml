@@ -1,5 +1,15 @@
 ---
-- talk: 
+- talk:
+    title: "When Test-First Fails"
+    email: cargill@profcon.com
+    speaker: Tim Cargill
+    date: 2012-09-13
+    desc: |
+      Test Driven Design is not the panacea that is widely claimed.  Based on
+      examples of situations where test-first fails,I will ask (but probably not
+      answer) the question: What discriminant characterizes those situations
+      where test-first fails?
+- talk:
     title: "Gaming on Linux"
     email: DLWillson@thegeek.nu
     speaker: "David L. Wilson"
