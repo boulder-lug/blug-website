@@ -2,7 +2,7 @@
 - talk:
     title: "When Test-First Fails"
     email: cargill@profcon.com
-    speaker: Tim Cargill
+    speaker: Tom Cargill
     date: 2012-09-13
     desc: |
       Test Driven Design is not the panacea that is widely claimed.  Based on
