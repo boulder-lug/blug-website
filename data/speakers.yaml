@@ -1,5 +1,15 @@
 ---
 - talk:
+    title: "Service Orchestration for Cloud Environments with Juju"
+    speaker: Jim Baker
+    date: 2012-10-11
+    desc: |
+      This talk will introduce Juju, describe its architecture, and show you how
+      to write charms and build your own service stacks. We will also look at
+      how you can start development on your own laptop (cloud in a box) and
+      readily move (export/import) your stacks around, whether on Amazon EC2, HP
+      Cloud, or other providers.
+- talk:
     title: "When Test-First Fails"
     email: cargill@profcon.com
     speaker: Tom Cargill
