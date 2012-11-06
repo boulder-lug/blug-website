@@ -1,5 +1,21 @@
 ---
 - talk:
+    title: "Yellowstone, the New Linux-based supercomputer at NCAR."
+    speaker: David Del Vento
+    date: 2012-11-08
+    desc: |
+      Yellowstone is the latest NCAR's supercomputer and it marks many changes
+      for supercomputing at NCAR. As always it's the largest machine to date to
+      be deployed at NCAR, but it's using "commodity technology" such as x86
+      processors and Linux which are unusual entries for supercomputing at NCAR.
+      Of course a supercomputer can't be "just" commodity, so there are many
+      hardware and software tricks that Yellowstone has in its sleeves, and that
+      this talk will unveil some. Four software "tricks" may be useful to normal
+      Linux deployment, so you may learn something good to know even if you
+      don't run a supercomputer. The building accommodating the machine is also
+      brand new, and using the latest and greatest technology itself, so I will
+      describe them too.
+- talk:
     title: "Service Orchestration for Cloud Environments with Juju"
     speaker: Jim Baker
     date: 2012-10-11
