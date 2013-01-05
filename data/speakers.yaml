@@ -1,5 +1,30 @@
 ---
 - talk:
+    title: "Achieving In vivo Robotic Capsule Mobility"
+    speaker: Mark Rentschler
+    email:
+    date: 2013-01-10
+    desc: |
+      The state-of-the-art technology for deep gastrointestinal (GI) tract
+      exploration is a capsule endoscope (CE). Capsule endoscopes are pill-sized
+      devices that provide visual feedback of the GI tract as they move
+      passively through the patient. These passive devices could benefit from a
+      mobility system enabling maneuverability and controllability. Potential
+      benefits of a robotic capsule endoscope (RCE) include faster travel
+      speeds, ability to maintain an anchored position, reaction force
+      generation for biopsy, and decreased capsule retention. To achieve in vivo
+      robotic mobility we have studied the design, experimental testing
+      performance, contact mechanics, and robotic implementation of
+      micro-patterned treads. In this talk, our approach to achieving in vivo
+      robotic mobility is presented. This includes experimental test methods,
+      devices, and results for the mechanical characterization of
+      micro-patterned treads designs, in regards to tread-tissue traction and
+      adhesion generation. Mechanics modeling of robot-tissue contact mechanics
+      is also presented. The talk is concluded by discussing design and
+      integration of these treads into a novel robotic capsule endoscope for
+      active mobility in the gastrointestinal tract with in vivo testing results
+      on a porcine model presented.
+- talk:
     title: "The Cryptogram of Life"
     speaker: Jeffrey S. Haemer
     email: jeffrey.haemer@gmail.com
