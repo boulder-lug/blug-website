@@ -22,6 +22,7 @@
 #
 # With alternative layout
 # page "/path/to/file.html", :layout => :otherlayout
+
 #
 # A path which all have the same layout
 # with_layout :admin do
@@ -41,17 +42,16 @@
 # activate :automatic_image_sizes
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+require 'lib/blug_helpers'
+helpers BlugHelpers
 
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
+
+set :layout, :master
 
 # Build-specific configuration
 configure :build do

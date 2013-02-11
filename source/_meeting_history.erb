@@ -1,0 +1,21 @@
+<h2>Talk History</h2>
+
+<table border="0" cellspacing="0" cellpadding="0" >
+  <tr style="background: #000000;color: #ffd233;"><th width="25%">Date</th><th width="50%">Talk</th><th width="25%">Speaker</th></tr>
+<% talks.each_with_index do |talk,i| %>
+  <tr style="background:#<%= ["999999", "ffd233"][i%2] %>;">
+  <td><%= talk.date %></td>
+    <td>
+        <% if talk.presentation_link then %>
+          <a href="<%= talk.presentation_link %>"><%= talk.title %></a>
+        <% else %>
+            <%= talk.title %>
+        <% end %>
+        <% if talk.video_link then %>
+          <a href="<%= talk.video_link %>">[video]</a>
+        <% end %>
+    </td>
+  <td><%= talk.speaker %></td>
+  </tr>
+<% end %>
+</table>

@@ -1,11 +1,9 @@
 --- 
 title:  BLUG - meetings
-filter:
-  - erb
-  - textile
+layout: meeting_history
 ---
 
-h2. Meetings
+h2. Meetings!
 
 Our monthly meetings are held at 6:45 PM, on the second Thursday of each month. A typical meeting consists of:
 
@@ -34,24 +32,3 @@ h2. Speakers
 
 We are always looking for new talks. If you would like to speak at BLUG "please contact us":mailto:boulderlinux@gmail.com
 
-h2. Talk History
-
-<table border="0" cellspacing="0" cellpadding="0" >
-	<tr style="background: #000000;color: #ffd233;"><th width="25%">Date</th><th width="50%">Talk</th><th width="25%">Speaker</th></tr>
-<% talks.each_with_index do |talk,i| %>
-	<tr style="background:#<%= ["999999", "ffd233"][i%2] -%>;">
-	<td><%= talk.date %></td>
-    <td>
-        <% if talk.presentation_link then %>
-          <a href="<%= talk.presentation_link %>"><%= talk.title %></a>
-        <% else %>
-            <%= talk.title %>
-        <% end %>
-        <% if talk.video_link then %>
-          <a href="<%= talk.video_link %>">[video]</a>
-        <% end %>
-    </td>
-	<td><%= talk.speaker %></td>
-	</tr>
-<% end %>
-</table>
