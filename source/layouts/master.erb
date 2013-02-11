@@ -1,22 +1,19 @@
---- 
-extension: html
-filter:    erb
---- 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<!doctype html>
+<html>
 <head>
-   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-   <title><%= @page.title %></title>
-   <meta name="author" content="<%= @page.author %>" />
+    <meta charset="utf-8">
+    <!-- Always force latest IE rendering engine or request Chrome Frame -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+ 
+   <title><%= data.page.title %></title>
+   <meta name="author" content="<%= data.page.author %>" />
 
    <!--- Blueprint CSS Framework -->
-   <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection" />
-   <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print" />
+   <link rel="stylesheet" href="/stylesheets/blueprint/screen.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="/stylesheets/blueprint/print.css" type="text/css" media="print" />
 
    <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="/stylesheets/site.css" type="text/css" media="screen, projection" />
 </head>
 <body>
 
@@ -35,7 +32,7 @@ filter:    erb
    </div>
 	
    <div class="column span-8 prepend-1 first">
-      <%= @content %>
+      <%= yield %>
    </div>
 
    <div class="column span-3 last">	
@@ -75,7 +72,6 @@ filter:    erb
 
    <div class="column span-11 prepend-1 append-2 first last" id="footer">
      <hr />
-     <p>This website was created with <a href="http://webby.rubyforge.org">Webby</a></p>
    </div>
 	
 </div>

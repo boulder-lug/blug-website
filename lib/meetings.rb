@@ -165,18 +165,6 @@ FROM_EMAIL    = "boulderlinux@gmail.com"
 FROM_NAME     = "Boulder Linux"
 TO_EMAIL      = %w[ announce@lug.boulder.co.us lug@lug.boulder.co.us ]
 
-def next_meeting
-  OpenStruct.new(BLUG_MEETINGS.next_meeting_talk)
-end    
-
-def prev_meeting
-  OpenStruct.new(BLUG_MEETINGS.prev_meeting_talk)
-end
-
-def talks
-  BLUG_MEETINGS.past_meetings.collect { |m| OpenStruct.new(m['talk']) }
-end
-
 def days_until_next_meeting
   BLUG_MEETINGS.next_meeting_date - Date.today
 end
