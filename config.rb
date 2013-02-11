@@ -80,5 +80,6 @@ activate :deploy do |deploy|
   deploy.method = :rsync
   deploy.user = "blug"
   deploy.host = "lug.boulder.co.us"
+  deploy.port = "666"
   deploy.path = "/home/httpd/lug.boulder.co.us/html"
 end
