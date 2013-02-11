@@ -1,5 +1,15 @@
 ---
 - talk:
+    title: "How to make python fast (and why)"
+    speaker: Davide Del Vento
+    email:
+    date: 2014-02-14
+    desc: |
+      Python is a popular programming language whose design philosophy
+      emphasizes code readability. If used naively it is not fast. However,
+      various techniques have been schemed to prevent the problem. This talk
+      with discuss some of these techniques with their pros and cons.
+- talk:
     title: "Achieving In vivo Robotic Capsule Mobility"
     speaker: Mark Rentschler
     email:
