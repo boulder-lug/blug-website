@@ -1,5 +1,15 @@
 ---
 - talk:
+    title: "The Science of Food Rescue"
+    speaker: Rhonda Hoenigman
+    email: rhoenigman@gmail.com
+    date: 2013-03-14
+    desc: |
+      In this talk I will discuss efforts to develop numerical models of food
+      waste in Boulder and Broomfield Counties, and how this modeling work led to                                                                                                                      the creation of a food-rescue organization called Boulder Food Rescue. Each
+      year grocery stores in Boulder throw away enough food to feed every hungry                                                                                                                       person in Boulder. Boulder Food Rescue was formed to pick food that large
+      food banks often leave behind, primarily produce, and deliver it to local                                                                                                                        shelters and other organizations serving at-risk populations.
+- talk:
     title: "How to make python fast (and why)"
     speaker: Davide Del Vento
     email:
