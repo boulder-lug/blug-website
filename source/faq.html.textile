@@ -33,9 +33,7 @@ Once you've decided to take the plunge and install a Linux distribution on your 
 
 h2. How do I do [some task] with Linux? or, [something] is broken! Help!
 
-If you have something specific you want to know, your best bet is to start with searches on "Google's Linux-specialized":http://www.google.com/linux search engine.
-
-If you can't find what you're looking for, or don't know how to phrase your search, try asking on our mailing lists. Please try to provide enough information in your post for us to help you; if you're seeing specific errors, it's always good to include them in your post.
+If you can't find what you're looking for in Google, or don't know how to phrase your search, try asking on our mailing lists. Please try to provide enough information in your post for us to help you; if you're seeing specific errors, it's always good to include them in your post.
 
 h2. What is, and how do I use, IRC?
 
