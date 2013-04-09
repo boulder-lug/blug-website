@@ -1,10 +1,20 @@
 ---
 - talk:
-    title: TBA
-    speaker: TBA
-    email:
+    title: The Robotic Operating System
+    speaker: David Coleman
+    email: David.T.Coleman@colorado.edu
     date: 2013-04-11
-    desc: "To Be Announced"
+    desc: |
+      As robots make their way into our everyday lives, so does Linux. The
+      Robotics Operating System (ROS), built on Linux, is today one of the main
+      platforms for roboticists around the world, and even in space. It is used
+      extensively in academia, industry and government. A review of the state of
+      the art in robotics will be followed by a description of the ROS
+      architecture. In its 6th year of development, some of the lessons that
+      have been learned with ROS will be discussed including the choice build
+      systems, release tools, version control, and package maintenance. Though
+      not perfect, ROS is a successful example of a world wide collaborative open
+      source effort.
 - talk:
     title: "The Science of Food Rescue"
     speaker: Rhonda Hoenigman
