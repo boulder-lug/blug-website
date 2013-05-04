@@ -1,5 +1,21 @@
 ---
 - talk:
+    title: Exploring Gnome 3's Gnome Shell experience
+    speaker: Maxwell Spangler
+    email: maxlists@maxwellspangler.com
+    date: 2013-05-09
+    desc: |
+      Personal computers have been using variations of the classic "desktop" user
+      interface with little change for over a decade.
+
+      After a long period of minor, mostly cosmetic changes we're re-entering a
+      period of experimentation and innovation.  Tablet computers, iPhones,
+      Windows 8's Metro and several new environments in Linux are source of joy
+      for some and frustration for others. In this presentation I'll briefly look
+      at where we've been and compare that with the Gnome 3 environment found in
+      Fedora Linux.  I'll tell you what I love about it and open your eyes to why
+      you should try it."
+- talk:
     title: The Robotic Operating System
     speaker: David Coleman
     email: David.T.Coleman@colorado.edu
