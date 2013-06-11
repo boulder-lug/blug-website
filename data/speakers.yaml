@@ -1,5 +1,18 @@
 ---
 - talk:
+    title: 1G to 4G, and beyond: The past, present, and future of wireless phone networks
+    speaker: Ted Logan
+    email: ted.logan@gmail.com
+    date: 2013-06-13
+    desc: |
+      Odds are you have, in your pocket, a fantastically-advanced mobile
+      telecommunications platform capable of putting you in touch with
+      virtually anyone on the planet in seconds. (You probably call it a
+      "phone".) How does it all work? Is it magic, or simply advanced
+      technology? What's the difference between GSM, CDMA, and LTE? Why do
+      we need so many acronyms to describe phone networks? And finally, what
+      do all the Gs mean?
+- talk:
     title: Exploring Gnome 3's Gnome Shell experience
     speaker: Maxwell Spangler
     email: maxlists@maxwellspangler.com
