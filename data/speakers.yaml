@@ -1,5 +1,27 @@
 ---
 - talk:
+    title: "An Introduction to Stacked Git"
+    speaker: Myron Stowe
+    email: ""
+    date: 2013-07-11
+    desc: |
+      An Introduction to Stacked Git (StGit; 'stg')
+      Git ('git') is a distributed revision control and source code
+      management (SCM) system that is used by the Linux kernel
+      community and numerous other open source projects.  StGit
+      (Stacked Git; 'stg') is a Python application providing similar
+      functionality to Quilt (i.e. pushing/popping patches to/from a
+      stack) on top of Git.  With StGit, one can easily develop and
+      manage patch series that consist of hundreds of individual
+      patches.
+
+      The presentation will be more developer oriented - a "live
+      demonstration" and not a slick slide show - in which Myron will
+      emulate the development of a patch series using StGit,
+      demonstrating its use and capabilities.  Myron Stowe is a Linux
+      kernel developer specializing in hardware enablement, primarily
+      in the areas of PCI and ACPI.
+- talk:
     title: "1G to 4G, and beyond: The past, present, and future of wireless phone networks"
     speaker: Ted Logan
     email: ted.logan@gmail.com
