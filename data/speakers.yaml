@@ -1,5 +1,23 @@
 ---
 - talk:
+    title: "Discovery and Monitoring Without Limit"
+    speaker: Alan Robertson
+    email: alanr@unix.sh
+    date: 2013-08-08
+    desc: |
+      The Assimilation Project provides integrated IT discovery and monitoring.
+
+      Discovery is continuous and has zero-network-footprint.  Monitoring is
+      extremely scalable due to a radically distributed architecture.  Discovery
+      informs monitoring - simplifying configuration and maintenance.  Discovery
+      finds systems you?ve forgotten about, and services you aren?t monitoring and
+      dependencies.  About 30% of all outside security breaches come through
+      forgotten systems so this is critical for security.*
+
+      The Assimilation System provides extremely scalable easy-to-configure
+      monitoring, and a continually up to date, detailed configuration
+      management database using the Neo4j graph database.
+- talk:
     title: "An Introduction to Stacked Git"
     speaker: Myron Stowe
     email: ""
