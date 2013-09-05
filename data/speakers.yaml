@@ -1,5 +1,29 @@
 ---
 - talk:
+    title: "Distributed Information Processing in Materials that Think"
+    speaker: Nikolaus Correll
+    email: nikolaus.correll@colorado.edu
+    date: 2013-09-12
+    desc: |
+      Materials that think are enabled by recent advances in smart polymers,
+      desktop manufacturing systems and miniaturization of computers. Materials that
+      think tightly integrate sensing, actuation, computation and communication in a
+      periodic, amorphous fashion, which might enable revolutionary new composites
+      with fully programmable capabilities. The challenges in creating materials that
+      think lie at the intersection of material science engineering and computer
+      science, and - from a CS perspective - require advances in distributed
+      algorithms for signal processing, control and routing of information. I will
+      illustrate these challenges and recent advances by our group using three case
+      studies, all using identical computational infrastructure: (1) a soft robotic
+      skin that can locate and classify textures by locally sampling, processing and
+      classifying 3kHz vibration signals and route relevant information to a central
+      processing unit using multi-hop networking. (2) A modular building block for
+      creating intelligent walls and facade systems that can recognize complex
+      gestures spanning multiple building blocks in a robust and scalable fashion
+      using Bloom filter-based multi-cast routing and a simple classifier. And (3)
+      variable stiffness composites that can assume arbitrary shapes using simple
+      actuation and local feedback control.
+- talk:
     title: "Discovery and Monitoring Without Limit"
     speaker: Alan Robertson
     email: alanr@unix.sh
