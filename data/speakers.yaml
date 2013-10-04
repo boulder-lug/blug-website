@@ -2,9 +2,10 @@
 - talk:
     title: Flash Talks
     speakers: Multiple Speakers
-    email:
+    email: boulderlinux@gmail.com
     date: 2013-10-10
-    desc: This month we will have 4 speakers each giving a short talk.
+    desc: |
+      This month we will have 4 speakers each giving a short talk.
 - talk:
     title: "Distributed Information Processing in Materials that Think"
     speaker: Nikolaus Correll
