@@ -1,5 +1,19 @@
 ---
 - talk:
+    title: Software Patterns - Introduction to Foundational Wisdom for the Maturing Software Profession
+    speaker: Scott Jackson
+    date: 2013-11-14
+    desc: |
+      In this talk I will show the important role that patterns play during the
+      Software Development Process.  I will make the case that Software Patterns
+      should be fundamental knowledge for Software Engineers and that they play a
+      key role in maturing the Software Development profession.  Along with
+      introducing some of the more common patterns, I will share real world
+      examples where patterns were used to expedite development, reduce cost and
+      improve scalability.  There will be time at the end of the presentation to
+      discuss your favorite patterns and your good or bad experiences with
+      applying them.
+- talk:
     title: Flash Talks
     speaker: Multiple Speakers
     email: boulderlinux@gmail.com
