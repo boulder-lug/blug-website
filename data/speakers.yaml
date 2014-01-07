@@ -1,5 +1,20 @@
 ---
 - talk:
+    title: Boot Strapping a Tech Company With Linux From Scratch
+    speaker: Art Reisman
+    date: 2014-01-09
+    desc: |
+      I'll go into how I used Linux as a tool to implement a tech idea and the
+      steps in building the product and taking it commercial . The ups and downs
+      along the way. Then  I'll most likely diverge into building a tech company
+      in general, some of the myths with consulting companies versus product
+      companies, and their differences.
+- talk:
+    title: Flash Talks
+    speaker: Multiple Speakers
+    date: 2013-12-12
+    desc: This month we will have multiple speakers each giving a short talk.
+- talk:
     title: Software Patterns - Introduction to Foundational Wisdom for the Maturing Software Profession
     speaker: Scott Jackson
     date: 2013-11-14
