@@ -10,12 +10,12 @@ The site is generated and deployed with [middleman](http://middlemanapp.com/).
 1. Install Ruby
 2. Install Bundler `gem install bundler`
 3. Install Everything Else `bundle install`
-4. `middelman` && open browser
+4. `middleman` && open browser
 
 ## Generate and view the site locally
 
 1. `middleman build` (rebuild everything by adding `--clean`)
-2. `heel -r build` -- this will launch a local webserver and open your browser to it.
+2. `heel -r build` -- this will launch a local web server and open your browser to it.
 
 ## Deploy to the website
 
