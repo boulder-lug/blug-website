@@ -12,7 +12,7 @@ Our monthly meetings are held at 6:45 PM, on the second Thursday of each month. 
 * An item give away if we have stuff to give away.
 * A short general question-and-answer period.
 
-The latest meeting information is always in the sidebar. Yup, right there on the right. You can "subscribe to our google calendar":http://www.google.com/calendar/render?cid=http%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Fboulderlinux%2540gmail.com%2Fpublic%2Fbasic or "see our current schedule":calendar.html.
+The latest meeting information is on the "BLUG Meetup.com page":http://www.meetup.com/Boulder-Linux-Users-Group-BLUG/
 
 h2. Location
 

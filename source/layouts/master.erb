@@ -36,31 +36,13 @@
    </div>
 
    <div class="column span-3 last">	
-	  <h4>Next Meeting</h4>
-	  <p>
+     <h4>Next Meeting</h4>
+     <p>
 	  <ul>
-		<li><b>Date: </b><%= next_meeting.date %></li>
-		<li><b>Title: </b><%= next_meeting.title %></li>
-		<li><b>Speaker: </b> <%= next_meeting.speaker %></li>
+      <li><a href="http://www.meetup.com/Boulder-Linux-Users-Group-BLUG/">BLUG on Meetup.com</a>
 	  </ul>
       </p>
-      <h4>Previous Meeting</h4>
-      <p>
-	  <ul>
-		<li><b>Date: </b><%= prev_meeting.date %></li>
-        <li><b>Title: </b>
-        <% if prev_meeting.presentation_link then %>
-          <a href="<%=prev_meeting.presentation_link %>"><%= prev_meeting.title %></a> 
-        <% else %>
-            <%= prev_meeting.title %>
-        <% end %>
-        <% if prev_meeting.video_link then %>
-          <a href="<%=prev_meeting.video_link %>">[video]</a>
-        <% end %>
-        </li>
-        <li><b>Speaker: </b> <%= prev_meeting.speaker %></li>
-	  </ul>
-	  <h4>What's happening</h4>
+  <h4>What's happening</h4>
 	  <p>
         <ul>
           <li><b><a href="http://bit.ly/blug-speaker-calendar-2012">Speaker spreadsheet</a></b></li>
