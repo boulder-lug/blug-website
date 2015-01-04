@@ -9,6 +9,8 @@ The Boulder Linux Users Group is a group of hobbyists, professionals and enthusi
 
 h2. Monthly Meetings
 
+The latest meeting information is available on the "BLUG Meetup.com page":http://www.meetup.com/Boulder-Linux-Users-Group-BLUG/
+
 Our monthly meetings are held at 6:45 PM on the second Thursday of each month at the offices of "Applied Trust":http://www.appliedtrust.com/., 1033 Walnut Street, Boulder, CO. A typical meeting consists of:
 
 * 6:45 pm &mdash; a 30 minute social/food period.
