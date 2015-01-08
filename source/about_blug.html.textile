@@ -36,10 +36,10 @@ Over the years we've met regularly, in various location including the NIST audit
 
 h3. Hacking Society
 
-For many years, members of at least two Front-Range LUGs formed the Hacking Society
+For many years, members of at least two Front-Range LUGs formed the "Hacking Society":http://hackingsociety.org/chapters/blug/ 
 
 bq. Hack - vi. To interact with a computer in a playful and exploratory
 rather than goal-directed way. &ldquo;Whatcha up to?&rdquo; &ldquo;Oh, just
 hacking.&rdquo;
 
-and on those Thursdays when BLUG isn't meeting, you could find them at the "Hacking Society":http://hackingsociety.org/chapters/blug/ meetings at "Caffe Sole":http://caffesole.com/south_boulder.html or Southern Exposure, drinking coffee, working on various projects, and talking about things.
+and on those Thursdays when BLUG isn't meeting, you could find them at meetings at "Caffe Sole":http://caffesole.com/south_boulder.html or Southern Sun brewery, drinking, working on various projects, and talking about things.
