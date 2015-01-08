@@ -9,7 +9,7 @@ h2. Contact Us
 BLUG has no official committee but anyone who volunteers becomes part of the unofficial admin team.
 
 * "boulderlinux@gmail.com":mailto:boulderlinux@gmail.com - General Information Contact
-* "Dan Mackin" - Speaker Coordinator
+* Dan Mackin - Speaker Coordinator
 
 Honored coordinators of the past:
 
