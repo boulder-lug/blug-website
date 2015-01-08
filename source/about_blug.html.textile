@@ -29,6 +29,17 @@ Don't let that scare you away: whatever your interest in Linux, you will most li
 Attend the meetings or join the "mailing list":lists.html to find out more!
 
 h2. History
+
 The Boulder Linux Users Group was founded by Wayde Allen around 1998.
 
 Over the years we've met regularly, in various location including the NIST auditorium, CU's Flemming Law School building and its ITS auditorium on Marine Street, Aztek Networks, and Applied Trust.
+
+h3. Hacking Society
+
+For many years, members of at least two Front-Range LUGs formed the Hacking Society
+
+bq. Hack - vi. To interact with a computer in a playful and exploratory
+rather than goal-directed way. &ldquo;Whatcha up to?&rdquo; &ldquo;Oh, just
+hacking.&rdquo;
+
+and on those Thursdays when BLUG isn't meeting, you could find them at the "Hacking Society":http://hackingsociety.org/chapters/blug/ meetings at "Caffe Sole":http://caffesole.com/south_boulder.html or Southern Exposure, drinking coffee, working on various projects, and talking about things.
