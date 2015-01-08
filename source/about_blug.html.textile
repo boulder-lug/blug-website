@@ -9,7 +9,14 @@ h2. Contact Us
 BLUG has no official committee but anyone who volunteers becomes part of the unofficial admin team.
 
 * "boulderlinux@gmail.com":mailto:boulderlinux@gmail.com - General Information Contact
-* "Anna Cereti":mailto:anna.cereti%2Bblug@gmail.com - Speaker Coordinator
+* "Dan Mackin" - Speaker Coordinator
+
+Honored coordinators of the past:
+
+* Anna Cereti
+* Jeffrey Haemer
+* Chris Riddoch
+* Wayde Allen 
 
 h2. About Us
 
@@ -20,3 +27,8 @@ We meet the second Thursday of each month and have a mailing list to discuss dif
 Don't let that scare you away: whatever your interest in Linux, you will most likely find someone in the group who shares it.  A Users group is a great way to participate in the Open Source movement.  You can learn from those more experienced than you in some areas and teach those that aren't as experienced as you in other areas.
 
 Attend the meetings or join the "mailing list":lists.html to find out more!
+
+h2. History
+The Boulder Linux Users Group was founded by Wayde Allen around 1998.
+
+Over the years we've met regularly, in various location including the NIST auditorium, CU's Flemming Law School building and its ITS auditorium on Marine Street, Aztek Networks, and Applied Trust.
