@@ -32,7 +32,7 @@ Attend the meetings or join the "mailing list":lists.html to find out more!
 
 h2. History
 
-The Boulder Linux Users Group was founded by Wayde Allen around 1998.
+The Boulder Linux Users Group was founded by Wayde Allen in 1996.
 
 Over the years we've met regularly, in various location including the NIST auditorium, CU's Flemming Law School building and its ITS auditorium on Marine Street, Aztek Networks, and Applied Trust.
 
